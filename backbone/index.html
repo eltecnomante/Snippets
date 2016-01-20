@@ -2,21 +2,37 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <script type="text/javascript" src="/js/backbone-min.js">
+    <script type="text/javascript" src="js/lib/jquery-1.12.0.min.js"></script>
+    <script type="text/javascript" src="js/lib/underscore.min.js"></script>
+    <script type="text/javascript" src="js/lib/backbone.js"></script>
+    <script type="text/javascript" src="js/app/app.js"></script>
+    <script type="text/javascript" src="js/app/personal/personalInfo.js">
     </script>
-    <script type="text/javascript" src="/js/jquery-1.12.0.min.js">
-    </script>
-    <script type="text/javascript" src="/js/underscore.min.js">
-    </script>
-    <link rel="stylesheet" href="/css/boostrap/bootrasp.css" media="screen" title="no title" charset="utf-8">
-    <link rel="stylesheet" href="/css/boostrap/bootrasp.css" media="screen" title="no title" charset="utf-8">
-    <link rel="stylesheet" href="/css/boostrap/bootrasp-theme.css" media="screen" title="no title" charset="utf-8">
 
-    <link rel="stylesheet" href="/css/master.css" media="screen" title="no title" charset="utf-8">
+    <link rel="stylesheet" href="css/bootstrap/css/bootstrap.css" media="screen" title="no title" charset="utf-8">
+    <link rel="stylesheet" href="css/bootstrap/css/bootstrap-theme.css" media="screen" title="no title" charset="utf-8">
+
+    <link rel="stylesheet" href="css/master.css" media="screen" title="no title" charset="utf-8">
 
     <title></title>
   </head>
   <body>
+    <div class="container">
 
+      <div class="header">
+        <h1>Portal de empleado</h1>
+        <h2>Nombre</h2>
+      </div>
+      <main class="container">
+
+
+      </main>
+    </div>
   </body>
+  <script type="text/javascript">
+    $.getJSON('http://localhost:3000/js/resources/personal-data.json', function(json, textStatus) {
+      debugger;
+      var data = json;
+    });
+  </script>
 </html>
