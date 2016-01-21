@@ -1,0 +1,17 @@
+{
+  "name": "MediaNet",
+  "description": "Live server reload",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "devDependencies": {
+    "browser-sync": "^2.10.0",
+    "express": "^4.13.3",
+    "gulp": "^3.9.0",
+    "gulp-nodemon": "^2.0.4",
+    "require-dir": "^0.3.0",
+    "serve-index": "^1.7.2"
+  }
+}
