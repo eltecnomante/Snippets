@@ -32,18 +32,9 @@ var tree = [
   }
 ];
 
-(function(){
+$(document).on('ready',function(){
 
-function getTree(){
-
-
-  return tree;
-
-}
-
-$('#tree').treeview({
-  data: getTree()
+  $('#tree').treeview({
+    data: tree
+  });
 });
-
-
-})();
