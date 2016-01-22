@@ -1,0 +1,4017 @@
+{
+	"FamiliesWithSynonyms" : [{
+			"value" : 100323,
+			"label" : "Abrazadera"
+		}, {
+			"value" : 100733,
+			"label" : "Accesorios"
+		}, {
+			"value" : 103102,
+			"label" : "Accesorios"
+		}, {
+			"value" : 100630,
+			"label" : "Accesorios/piezas"
+		}, {
+			"value" : 100634,
+			"label" : "Accesorios/piezas"
+		}, {
+			"value" : 100718,
+			"label" : "Accesorios/piezas"
+		}, {
+			"value" : 101808,
+			"label" : "Accionamiento de la transmisión"
+		}, {
+			"value" : 100424,
+			"label" : "Accionamiento de válvulas"
+		}, {
+			"value" : 100515,
+			"label" : "Accionamiento del cigüeñal"
+		}, {
+			"value" : 100079,
+			"label" : "Accionamiento del embrague"
+		}, {
+			"value" : 102910,
+			"label" : "Accionamiento/Amortiguación/Cámaras"
+		}, {
+			"value" : 101994,
+			"label" : "Aceites"
+		}, {
+			"value" : 100382,
+			"label" : "Acumulador de presión / Interruptor"
+		}, {
+			"value" : 100243,
+			"label" : "Aire acondicionado"
+		}, {
+			"value" : 100383,
+			"label" : "Alimentación de aire"
+		}, {
+			"value" : 100214,
+			"label" : "Alimentación de combustible"
+		}, {
+			"value" : 100539,
+			"label" : "Amortiguador  de suspensión del motor"
+		}, {
+			"value" : 100325,
+			"label" : "Amortiguador de goma"
+		}, {
+			"value" : 100121,
+			"label" : "Amortiguadores"
+		}, {
+			"value" : 100324,
+			"label" : "Anillo de goma"
+		}, {
+			"value" : 102205,
+			"label" : "Anticongelante"
+		}, {
+			"value" : 100247,
+			"label" : "Aparato de mando/Relés/sensores"
+		}, {
+			"value" : 100727,
+			"label" : "Aparatos de mando (unidades de control)"
+		}, {
+			"value" : 100572,
+			"label" : "Apoyo/sujeción"
+		}, {
+			"value" : 100397,
+			"label" : "Árbol de levas"
+		}, {
+			"value" : 100062,
+			"label" : "Arbol de transmisión (Palier)"
+		}, {
+			"value" : 100561,
+			"label" : "Árbol de velocímetro"
+		}, {
+			"value" : 100767,
+			"label" : "Árbol intermedio/Árbol de compensación"
+		}, {
+			"value" : 103120,
+			"label" : "Árbol intermedio/Árbol de compensación"
+		}, {
+			"value" : 100200,
+			"label" : "Armortiguadores de dirección"
+		}, {
+			"value" : 100071,
+			"label" : "Articulación / Juego (Junta homocinética)"
+		}, {
+			"value" : 100673,
+			"label" : "Asientos"
+		}, {
+			"value" : 100577,
+			"label" : "Barra de acoplamiento"
+		}, {
+			"value" : 100197,
+			"label" : "Barras de acoplamiento"
+		}, {
+			"value" : 100601,
+			"label" : "Barras de acoplamiento/piezas"
+		}, {
+			"value" : 101504,
+			"label" : "Bastidor auxiliar/soporte de equipos"
+		}, {
+			"value" : 100042,
+			"label" : "Batería"
+		}, {
+			"value" : 100519,
+			"label" : "Biela"
+		}, {
+			"value" : 100514,
+			"label" : "Bloque motor"
+		}, {
+			"value" : 100533,
+			"label" : "Bloque motor"
+		}, {
+			"value" : 100150,
+			"label" : "Bobina de encendido"
+		}, {
+			"value" : 100320,
+			"label" : "Bocina/bocina electroneumática"
+		}, {
+			"value" : 100492,
+			"label" : "Bomba de aceite"
+		}, {
+			"value" : 100476,
+			"label" : "Bomba de aceite / Piezas adicionales"
+		}, {
+			"value" : 100091,
+			"label" : "Bomba de agua"
+		}, {
+			"value" : 100088,
+			"label" : "Bomba de agua / Junta"
+		}, {
+			"value" : 100717,
+			"label" : "Bomba de combustible"
+		}, {
+			"value" : 100039,
+			"label" : "Bomba de vacío"
+		}, {
+			"value" : 100135,
+			"label" : "Bomba del agua de lavar"
+		}, {
+			"value" : 102450,
+			"label" : "Bomba vacío"
+		}, {
+			"value" : 100251,
+			"label" : "Bomba/accesorios"
+		}, {
+			"value" : 100501,
+			"label" : "Bombilla para luces de marcha atrás"
+		}, {
+			"value" : 101435,
+			"label" : "Bombilla para luces de marcha atrás"
+		}, {
+			"value" : 101742,
+			"label" : "Bombilla para luces de marcha atrás"
+		}, {
+			"value" : 100498,
+			"label" : "Bombilla para luces intermitentes"
+		}, {
+			"value" : 101423,
+			"label" : "Bombilla para luces intermitentes"
+		}, {
+			"value" : 101672,
+			"label" : "Bombilla para luces intermitentes"
+		}, {
+			"value" : 101730,
+			"label" : "Bombilla para luces intermitentes"
+		}, {
+			"value" : 100503,
+			"label" : "Bombillas"
+		}, {
+			"value" : 101445,
+			"label" : "Bombillas"
+		}, {
+			"value" : 101770,
+			"label" : "Bombillas"
+		}, {
+			"value" : 101789,
+			"label" : "Bombillas"
+		}, {
+			"value" : 100500,
+			"label" : "Bombillas p.luces traseras antinieblas"
+		}, {
+			"value" : 101431,
+			"label" : "Bombillas p.luces traseras antinieblas"
+		}, {
+			"value" : 101738,
+			"label" : "Bombillas p.luces traseras antinieblas"
+		}, {
+			"value" : 100496,
+			"label" : "Bombillas para luces de frenos"
+		}, {
+			"value" : 101419,
+			"label" : "Bombillas para luces de frenos"
+		}, {
+			"value" : 101726,
+			"label" : "Bombillas para luces de frenos"
+		}, {
+			"value" : 100499,
+			"label" : "Bombillas para luces de matrícula"
+		}, {
+			"value" : 101427,
+			"label" : "Bombillas para luces de matrícula"
+		}, {
+			"value" : 101734,
+			"label" : "Bombillas para luces de matrícula"
+		}, {
+			"value" : 100136,
+			"label" : "Brazo del limpiaparabrisas/ Soporte"
+		}, {
+			"value" : 100571,
+			"label" : "Brazo oscilante (long. transv. inclinado)"
+		}, {
+			"value" : 100208,
+			"label" : "Brazo oscilante/soporte"
+		}, {
+			"value" : 102908,
+			"label" : "Brida"
+		}, {
+			"value" : 100840,
+			"label" : "Bridas"
+		}, {
+			"value" : 100152,
+			"label" : "Bujía de precalentamiento"
+		}, {
+			"value" : 101837,
+			"label" : "Busca artículo por gráfica"
+		}, {
+			"value" : 102438,
+			"label" : "Busca artículo por gráfica"
+		}, {
+			"value" : 100153,
+			"label" : "Cable de encendido/Piezas de conexión"
+		}, {
+			"value" : 100077,
+			"label" : "Cable del embrague"
+		}, {
+			"value" : 100385,
+			"label" : "Cable/ varillaje acelerador"
+		}, {
+			"value" : 100239,
+			"label" : "Caja de cambios"
+		}, {
+			"value" : 100240,
+			"label" : "Caja de cambios automática"
+		}, {
+			"value" : 100241,
+			"label" : "Calefacción/Ventilación"
+		}, {
+			"value" : 100184,
+			"label" : "Capó delantero/piezas/amortiguación"
+		}, {
+			"value" : 101654,
+			"label" : "Capó delantero/piezas/amortiguación"
+		}, {
+			"value" : 101783,
+			"label" : "Capó delantero/piezas/amortiguación"
+		}, {
+			"value" : 100001,
+			"label" : "Carrocería"
+		}, {
+			"value" : 100489,
+			"label" : "Cárter de aceite"
+		}, {
+			"value" : 100475,
+			"label" : "Cárter de aceite / piezas adicionales"
+		}, {
+			"value" : 101853,
+			"label" : "Cárter de aceite / piezas adicionales"
+		}, {
+			"value" : 100212,
+			"label" : "Cárter de eje/Soporte"
+		}, {
+			"value" : 100165,
+			"label" : "Cárter de la rueda"
+		}, {
+			"value" : 100056,
+			"label" : "Casquillo corredizo"
+		}, {
+			"value" : 100522,
+			"label" : "Casquillo de cojinete de cigüeñal"
+		}, {
+			"value" : 100527,
+			"label" : "Casquillo de pie de biela"
+		}, {
+			"value" : 100886,
+			"label" : "Chapa dispersora de aceite"
+		}, {
+			"value" : 101696,
+			"label" : "Chapa lateral"
+		}, {
+			"value" : 101780,
+			"label" : "Chapa lateral"
+		}, {
+			"value" : 100181,
+			"label" : "Chapa lateral (aleta)"
+		}, {
+			"value" : 100517,
+			"label" : "Cigüeñal"
+		}, {
+			"value" : 100028,
+			"label" : "Cilindro de rueda (Buje, Moyu)"
+		}, {
+			"value" : 102965,
+			"label" : "Cilindro de rueda (Buje, Moyu)"
+		}, {
+			"value" : 100026,
+			"label" : "Cilindro principal"
+		}, {
+			"value" : 100061,
+			"label" : "Cilindro principal"
+		}, {
+			"value" : 100060,
+			"label" : "Cilindro receptor"
+		}, {
+			"value" : 100326,
+			"label" : "Cinta de goma"
+		}, {
+			"value" : 100715,
+			"label" : "Codo/colector"
+		}, {
+			"value" : 100525,
+			"label" : "Cojinete de cabeza de la biela"
+		}, {
+			"value" : 100054,
+			"label" : "Cojinete de desembrague / Cojinete de empuje central (Collarín)"
+		}, {
+			"value" : 100055,
+			"label" : "Cojinete de empuje"
+		}, {
+			"value" : 100579,
+			"label" : "Cojinete de rueda"
+		}, {
+			"value" : 100381,
+			"label" : "Columna de suspensión/amortiguador/piezas de montaje"
+		}, {
+			"value" : 100354,
+			"label" : "Compresor/piezas"
+		}, {
+			"value" : 102804,
+			"label" : "Conductos, distribución combustible"
+		}, {
+			"value" : 100776,
+			"label" : "Control/Sistema hidráulico"
+		}, {
+			"value" : 100404,
+			"label" : "Correa dentada"
+		}, {
+			"value" : 100396,
+			"label" : "Correa dentada / guía / tensión"
+		}, {
+			"value" : 100085,
+			"label" : "Correa dentada /Juego"
+		}, {
+			"value" : 100452,
+			"label" : "Correa dentada/Arbol de levas"
+		}, {
+			"value" : 100431,
+			"label" : "Correa poli V"
+		}, {
+			"value" : 100082,
+			"label" : "Correa poli V/Juego"
+		}, {
+			"value" : 100450,
+			"label" : "Correa trapezoidal"
+		}, {
+			"value" : 100080,
+			"label" : "Correa trapezoidal / Juego"
+		}, {
+			"value" : 101655,
+			"label" : "Cristal delantero"
+		}, {
+			"value" : 100745,
+			"label" : "Cristales"
+		}, {
+			"value" : 100744,
+			"label" : "Cristales/Espejos"
+		}, {
+			"value" : 100746,
+			"label" : "Cubiertas/capó/puertas/techo plegable, corredizo"
+		}, {
+			"value" : 100578,
+			"label" : "Cubo de la rueda"
+		}, {
+			"value" : 100206,
+			"label" : "Cubo/Cojinetes de rueda"
+		}, {
+			"value" : 100373,
+			"label" : "Culatas de cilindro / Piezas adicionales"
+		}, {
+			"value" : 100512,
+			"label" : "Depósito de aceite"
+		}, {
+			"value" : 100216,
+			"label" : "Depósito de combustible / Piezas"
+		}, {
+			"value" : 101760,
+			"label" : "Depósito de combustible / Piezas"
+		}, {
+			"value" : 101763,
+			"label" : "Depósito de combustible / Piezas"
+		}, {
+			"value" : 100250,
+			"label" : "Depósito de combustible/accesorios"
+		}, {
+			"value" : 100112,
+			"label" : "Depósito de compensación"
+		}, {
+			"value" : 100541,
+			"label" : "Depuración de los gases de escape"
+		}, {
+			"value" : 100790,
+			"label" : "Depuración gases de escape"
+		}, {
+			"value" : 100415,
+			"label" : "Diferencial"
+		}, {
+			"value" : 100350,
+			"label" : "Dinamo/alternador"
+		}, {
+			"value" : 100041,
+			"label" : "Dínamo/alternador/piezas"
+		}, {
+			"value" : 100012,
+			"label" : "Dirección"
+		}, {
+			"value" : 100053,
+			"label" : "Disco de embrague"
+		}, {
+			"value" : 100032,
+			"label" : "Disco de freno"
+		}, {
+			"value" : 100759,
+			"label" : "Discos del cigüeñal"
+		}, {
+			"value" : 102794,
+			"label" : "Dispositivo de parada"
+		}, {
+			"value" : 100003,
+			"label" : "Distribución del motor"
+		}, {
+			"value" : 100148,
+			"label" : "Distribuidor de encendido/Piezas"
+		}, {
+			"value" : 100594,
+			"label" : "Elementos de transmisión, dirección"
+		}, {
+			"value" : 100751,
+			"label" : "Elevalunas"
+		}, {
+			"value" : 102691,
+			"label" : "Elevalunas"
+		}, {
+			"value" : 100050,
+			"label" : "Embrague/ piezas adicionales"
+		}, {
+			"value" : 100399,
+			"label" : "Empujadores/varillas/ tubo protector"
+		}, {
+			"value" : 100341,
+			"label" : "Equipamiento del habitáculo"
+		}, {
+			"value" : 100210,
+			"label" : "Estabilizador/ Piezas de sujeción"
+		}, {
+			"value" : 100787,
+			"label" : "Faros adicionales/Piezas"
+		}, {
+			"value" : 101340,
+			"label" : "Faros adicionales/Piezas"
+		}, {
+			"value" : 100276,
+			"label" : "Faros de carretera/Piezas"
+		}, {
+			"value" : 101345,
+			"label" : "Faros de carretera/Piezas"
+		}, {
+			"value" : 101665,
+			"label" : "Faros de carretera/Piezas"
+		}, {
+			"value" : 100277,
+			"label" : "Faros de luz antiniebla/Piezas"
+		}, {
+			"value" : 101341,
+			"label" : "Faros de luz antiniebla/Piezas"
+		}, {
+			"value" : 101661,
+			"label" : "Faros de luz antiniebla/Piezas"
+		}, {
+			"value" : 100143,
+			"label" : "Faros principales/Piezas"
+		}, {
+			"value" : 101465,
+			"label" : "Faros principales/Piezas"
+		}, {
+			"value" : 101656,
+			"label" : "Faros principales/Piezas"
+		}, {
+			"value" : 100735,
+			"label" : "Fijación / Soporte columna de suspensión"
+		}, {
+			"value" : 100261,
+			"label" : "Filtro combustible"
+		}, {
+			"value" : 100253,
+			"label" : "Filtro combustible/cubierta"
+		}, {
+			"value" : 100260,
+			"label" : "Filtro de aire"
+		}, {
+			"value" : 100591,
+			"label" : "Filtro de dirección"
+		}, {
+			"value" : 100262,
+			"label" : "Filtro hidráulico"
+		}, {
+			"value" : 100384,
+			"label" : "Filtro/caja de filtro de aire"
+		}, {
+			"value" : 100005,
+			"label" : "Filtros"
+		}, {
+			"value" : 100259,
+			"label" : "Filtros de aceite"
+		}, {
+			"value" : 100470,
+			"label" : "Filtros de aceite"
+		}, {
+			"value" : 100031,
+			"label" : "Forro/Zapata de freno"
+		}, {
+			"value" : 100626,
+			"label" : "Freno de disco"
+		}, {
+			"value" : 100627,
+			"label" : "Freno de tambor"
+		}, {
+			"value" : 100006,
+			"label" : "Frenos"
+		}, {
+			"value" : 100034,
+			"label" : "Frenos de estacionamiento"
+		}, {
+			"value" : 102964,
+			"label" : "Frenos de estacionamiento"
+		}, {
+			"value" : 100074,
+			"label" : "Fuelle"
+		}, {
+			"value" : 100201,
+			"label" : "Fuelle / Junta"
+		}, {
+			"value" : 100185,
+			"label" : "Guardabarros/piezas adosadas"
+		}, {
+			"value" : 101650,
+			"label" : "Guardabarros/piezas adosadas (aleta)"
+		}, {
+			"value" : 101779,
+			"label" : "Guardabarros/piezas adosadas (aleta)"
+		}, {
+			"value" : 101690,
+			"label" : "Habitáculo"
+		}, {
+			"value" : 103129,
+			"label" : "Herramientas"
+		}, {
+			"value" : 103150,
+			"label" : "Herramientas"
+		}, {
+			"value" : 100505,
+			"label" : "Iluminación habitáculo"
+		}, {
+			"value" : 100508,
+			"label" : "Iluminación instrumentos/elementos de servicio"
+		}, {
+			"value" : 100292,
+			"label" : "Iluminación interior"
+		}, {
+			"value" : 100043,
+			"label" : "Iluminación/Sistema de señales"
+		}, {
+			"value" : 101407,
+			"label" : "Iluminación/Sistema de señales"
+		}, {
+			"value" : 100322,
+			"label" : "Instrumentos"
+		}, {
+			"value" : 100347,
+			"label" : "Intercambiador de calor"
+		}, {
+			"value" : 100393,
+			"label" : "Intercooler"
+		}, {
+			"value" : 102911,
+			"label" : "Interruptor /Relé"
+		}, {
+			"value" : 102248,
+			"label" : "Interruptor luces freno"
+		}, {
+			"value" : 100478,
+			"label" : "Interruptor/ Sensor/ Válvula de la presión de aceite"
+		}, {
+			"value" : 100509,
+			"label" : "Interruptor/regulador"
+		}, {
+			"value" : 100334,
+			"label" : "Interruptor/Sensor"
+		}, {
+			"value" : 100613,
+			"label" : "Interruptores / Relés"
+		}, {
+			"value" : 100366,
+			"label" : "Interruptores/conmutadores"
+		}, {
+			"value" : 100307,
+			"label" : "Interruptores/Relés/Aparatos de mando de iluminación"
+		}, {
+			"value" : 102799,
+			"label" : "Inyectores"
+		}, {
+			"value" : 100534,
+			"label" : "Juego camisa cilindro"
+		}, {
+			"value" : 100224,
+			"label" : "Juego completo de juntas"
+		}, {
+			"value" : 100453,
+			"label" : "Juego de correa dentada"
+		}, {
+			"value" : 100405,
+			"label" : "Juego de correas dentadas"
+		}, {
+			"value" : 100051,
+			"label" : "Juego de embragues (Kit de embragues)"
+		}, {
+			"value" : 102763,
+			"label" : "Juego de frenos"
+		}, {
+			"value" : 100316,
+			"label" : "Juego de montaje"
+		}, {
+			"value" : 103270,
+			"label" : "Juego de reparación"
+		}, {
+			"value" : 100531,
+			"label" : "Juego de segmentos de pistón"
+		}, {
+			"value" : 100089,
+			"label" : "Junta"
+		}, {
+			"value" : 100096,
+			"label" : "Junta"
+		}, {
+			"value" : 100321,
+			"label" : "Junta"
+		}, {
+			"value" : 100488,
+			"label" : "Junta"
+		}, {
+			"value" : 100490,
+			"label" : "Junta"
+		}, {
+			"value" : 100493,
+			"label" : "Junta"
+		}, {
+			"value" : 101855,
+			"label" : "Junta"
+		}, {
+			"value" : 102795,
+			"label" : "Junta"
+		}, {
+			"value" : 100376,
+			"label" : "Junta anular, colector admsión/escape"
+		}, {
+			"value" : 100231,
+			"label" : "Junta anular/colector admisión"
+		}, {
+			"value" : 100683,
+			"label" : "Junta de agua refrigerante"
+		}, {
+			"value" : 100234,
+			"label" : "Junta de cárter de aceite"
+		}, {
+			"value" : 100229,
+			"label" : "Junta de colector de admisión"
+		}, {
+			"value" : 100375,
+			"label" : "Junta de cubierta de culata de cilindro"
+		}, {
+			"value" : 100374,
+			"label" : "Junta de culata de cilindro"
+		}, {
+			"value" : 100580,
+			"label" : "Junta de retén radial"
+		}, {
+			"value" : 100684,
+			"label" : "Junta del circuito de aceite"
+		}, {
+			"value" : 100233,
+			"label" : "Junta, bloque motor"
+		}, {
+			"value" : 100377,
+			"label" : "Junta/guía/ajuste de válvulas"
+		}, {
+			"value" : 100223,
+			"label" : "Juntas"
+		}, {
+			"value" : 100769,
+			"label" : "Juntas"
+		}, {
+			"value" : 100770,
+			"label" : "Juntas"
+		}, {
+			"value" : 100225,
+			"label" : "Juntas de culata"
+		}, {
+			"value" : 100227,
+			"label" : "Juntas de tapas de válvulas"
+		}, {
+			"value" : 100228,
+			"label" : "Juntas de vástago de válvula"
+		}, {
+			"value" : 100682,
+			"label" : "Juntas sistema de combustible"
+		}, {
+			"value" : 100788,
+			"label" : "Juntas/tubo de llenado refrigerante"
+		}, {
+			"value" : 100427,
+			"label" : "Lámpara de faro"
+		}, {
+			"value" : 101467,
+			"label" : "Lámpara de faro"
+		}, {
+			"value" : 101658,
+			"label" : "Lámpara de faro"
+		}, {
+			"value" : 101495,
+			"label" : "Lámpara faro trasero"
+		}, {
+			"value" : 100447,
+			"label" : "Lámpara para faros de luz antiniebla"
+		}, {
+			"value" : 101343,
+			"label" : "Lámpara para faros de luz antiniebla"
+		}, {
+			"value" : 101663,
+			"label" : "Lámpara para faros de luz antiniebla"
+		}, {
+			"value" : 100442,
+			"label" : "Lámparapara faros carretera"
+		}, {
+			"value" : 101347,
+			"label" : "Lámparapara faros carretera"
+		}, {
+			"value" : 101667,
+			"label" : "Lámparapara faros carretera"
+		}, {
+			"value" : 101414,
+			"label" : "Lámparas para luces traseras"
+		}, {
+			"value" : 101721,
+			"label" : "Lámparas para luces traseras"
+		}, {
+			"value" : 100155,
+			"label" : "Largueros/travesaños"
+		}, {
+			"value" : 100133,
+			"label" : "Limpiaparabrisas/Escobillas (Rasqueta)"
+		}, {
+			"value" : 100018,
+			"label" : "Limpieza de cristales"
+		}, {
+			"value" : 100245,
+			"label" : "Lubricación"
+		}, {
+			"value" : 100284,
+			"label" : "Luces de freno/Piezas"
+		}, {
+			"value" : 101415,
+			"label" : "Luces de freno/Piezas"
+		}, {
+			"value" : 101722,
+			"label" : "Luces de freno/Piezas"
+		}, {
+			"value" : 100469,
+			"label" : "Luces de gálibo"
+		}, {
+			"value" : 101443,
+			"label" : "Luces de gálibo"
+		}, {
+			"value" : 101768,
+			"label" : "Luces de gálibo"
+		}, {
+			"value" : 101787,
+			"label" : "Luces de gálibo"
+		}, {
+			"value" : 100291,
+			"label" : "Luces de las puertas"
+		}, {
+			"value" : 101452,
+			"label" : "Luces de las puertas"
+		}, {
+			"value" : 100287,
+			"label" : "Luces de marcha atrás/Piezas"
+		}, {
+			"value" : 101432,
+			"label" : "Luces de marcha atrás/Piezas"
+		}, {
+			"value" : 101739,
+			"label" : "Luces de marcha atrás/Piezas"
+		}, {
+			"value" : 100147,
+			"label" : "Luces de matrícula/ Piezas"
+		}, {
+			"value" : 101424,
+			"label" : "Luces de matrícula/ Piezas"
+		}, {
+			"value" : 101731,
+			"label" : "Luces de matrícula/ Piezas"
+		}, {
+			"value" : 100468,
+			"label" : "Luces de posición/estacionamiento"
+		}, {
+			"value" : 101442,
+			"label" : "Luces de posición/estacionamiento"
+		}, {
+			"value" : 101767,
+			"label" : "Luces de posición/estacionamiento"
+		}, {
+			"value" : 101786,
+			"label" : "Luces de posición/estacionamiento"
+		}, {
+			"value" : 100290,
+			"label" : "Luces de posición/estacionamiento/Gálibo/Piezas"
+		}, {
+			"value" : 101441,
+			"label" : "Luces de posición/estacionamiento/Gálibo/Piezas"
+		}, {
+			"value" : 101766,
+			"label" : "Luces de posición/estacionamiento/Gálibo/Piezas"
+		}, {
+			"value" : 101785,
+			"label" : "Luces de posición/estacionamiento/Gálibo/Piezas"
+		}, {
+			"value" : 100463,
+			"label" : "Luces intermitentes"
+		}, {
+			"value" : 101421,
+			"label" : "Luces intermitentes"
+		}, {
+			"value" : 101670,
+			"label" : "Luces intermitentes"
+		}, {
+			"value" : 101728,
+			"label" : "Luces intermitentes"
+		}, {
+			"value" : 100145,
+			"label" : "Luces intermitentes / Piezas"
+		}, {
+			"value" : 101420,
+			"label" : "Luces intermitentes / Piezas"
+		}, {
+			"value" : 101669,
+			"label" : "Luces intermitentes / Piezas"
+		}, {
+			"value" : 101727,
+			"label" : "Luces intermitentes / Piezas"
+		}, {
+			"value" : 100275,
+			"label" : "Luces traseras /Piezas"
+		}, {
+			"value" : 100285,
+			"label" : "Luces traseras antiniebla/Piezas"
+		}, {
+			"value" : 101428,
+			"label" : "Luces traseras antiniebla/Piezas"
+		}, {
+			"value" : 101735,
+			"label" : "Luces traseras antiniebla/Piezas"
+		}, {
+			"value" : 101411,
+			"label" : "Luces traseras rojas/Piezas"
+		}, {
+			"value" : 101718,
+			"label" : "Luces traseras rojas/Piezas"
+		}, {
+			"value" : 100567,
+			"label" : "Lunas de ventanas"
+		}, {
+			"value" : 100862,
+			"label" : "Maletero, compartimiento de carga"
+		}, {
+			"value" : 102697,
+			"label" : "Maletero/compartimiento de carga"
+		}, {
+			"value" : 100691,
+			"label" : "Manecilla de puerta"
+		}, {
+			"value" : 100779,
+			"label" : "Manejo/control"
+		}, {
+			"value" : 100587,
+			"label" : "Mangueta"
+		}, {
+			"value" : 100207,
+			"label" : "Mangueta /Juego de reparación"
+		}, {
+			"value" : 100716,
+			"label" : "Manguito de soldadura"
+		}, {
+			"value" : 100100,
+			"label" : "Manguitos y tubos para el agua refrigerante"
+		}, {
+			"value" : 100199,
+			"label" : "Mecanismo/bomba de dirección"
+		}, {
+			"value" : 100246,
+			"label" : "Módulo de encendido/bloque electrónico"
+		}, {
+			"value" : 100169,
+			"label" : "Montante de puerta/acceso"
+		}, {
+			"value" : 101692,
+			"label" : "Montante de puerta/acceso"
+		}, {
+			"value" : 100002,
+			"label" : "Motor"
+		}, {
+			"value" : 100359,
+			"label" : "Motor de arranque"
+		}, {
+			"value" : 100826,
+			"label" : "Muelles neumáticos"
+		}, {
+			"value" : 101703,
+			"label" : "Muelles neumáticos"
+		}, {
+			"value" : 101752,
+			"label" : "Muelles neumáticos"
+		}, {
+			"value" : 101777,
+			"label" : "Muelles neumáticos"
+		}, {
+			"value" : 100803,
+			"label" : "Muñón de eje"
+		}, {
+			"value" : 100635,
+			"label" : "Palancas /Cables"
+		}, {
+			"value" : 100168,
+			"label" : "Panel del piso/bajos"
+		}, {
+			"value" : 101707,
+			"label" : "Panel del piso/bajos"
+		}, {
+			"value" : 101648,
+			"label" : "Parte delantera del vehículo"
+		}, {
+			"value" : 101705,
+			"label" : "Parte trasera vehículo"
+		}, {
+			"value" : 100743,
+			"label" : "Partes de la carrocería/Guardabarros/Parachoques"
+		}, {
+			"value" : 100030,
+			"label" : "Pastilla de freno"
+		}, {
+			"value" : 100329,
+			"label" : "Pieza de agarre"
+		}, {
+			"value" : 100806,
+			"label" : "Piezas"
+		}, {
+			"value" : 100372,
+			"label" : "Piezas adicionales"
+		}, {
+			"value" : 100603,
+			"label" : "Piezas de barras de acoplamiento"
+		}, {
+			"value" : 100105,
+			"label" : "Piezas de fijación del radiador"
+		}, {
+			"value" : 100066,
+			"label" : "Piezas de fijación/ de accesorios"
+		}, {
+			"value" : 100222,
+			"label" : "Piezas de montaje"
+		}, {
+			"value" : 100317,
+			"label" : "Piezas de montaje"
+		}, {
+			"value" : 100019,
+			"label" : "Piezas de servicio, inspección y mantenimiento"
+		}, {
+			"value" : 100597,
+			"label" : "Piezas de servicio/mantenimiento"
+		}, {
+			"value" : 100596,
+			"label" : "Piezas de sujeción"
+		}, {
+			"value" : 100608,
+			"label" : "Piezas eléctricas"
+		}, {
+			"value" : 101700,
+			"label" : "Piezas individuales/piezas de montaje"
+		}, {
+			"value" : 101745,
+			"label" : "Piezas individuales/piezas de montaje"
+		}, {
+			"value" : 101673,
+			"label" : "Piezas individuales/piezas de montaje"
+		}, {
+			"value" : 102800,
+			"label" : "Piezas portainyector/inyector"
+		}, {
+			"value" : 100609,
+			"label" : "Piezas/Piezas de montaje"
+		}, {
+			"value" : 100807,
+			"label" : "Pinza de freno/soporte"
+		}, {
+			"value" : 100027,
+			"label" : "Pinza del freno (Caliper)"
+		}, {
+			"value" : 100520,
+			"label" : "Pistón"
+		}, {
+			"value" : 100529,
+			"label" : "Pistón"
+		}, {
+			"value" : 100530,
+			"label" : "Pistón, completo"
+		}, {
+			"value" : 100052,
+			"label" : "Plato de presión del embrague"
+		}, {
+			"value" : 101470,
+			"label" : "Precalentamiento de agua refrigeración"
+		}, {
+			"value" : 100254,
+			"label" : "Preparación de la mezcla carburante"
+		}, {
+			"value" : 102793,
+			"label" : "Preparación mezcla"
+		}, {
+			"value" : 101781,
+			"label" : "Puerta trasera /piezas"
+		}, {
+			"value" : 100189,
+			"label" : "Puertas/piezas"
+		}, {
+			"value" : 101694,
+			"label" : "Puertas/piezas"
+		}, {
+			"value" : 100108,
+			"label" : "Radiador de aceite"
+		}, {
+			"value" : 100474,
+			"label" : "Radiador de aceite / Piezas adicionales"
+		}, {
+			"value" : 100102,
+			"label" : "Radiador de agua/aceite"
+		}, {
+			"value" : 100103,
+			"label" : "Radiador/piezas"
+		}, {
+			"value" : 100007,
+			"label" : "Refrigeración"
+		}, {
+			"value" : 100338,
+			"label" : "Refrigeración de aire"
+		}, {
+			"value" : 100104,
+			"label" : "Refrigeración de la calefacción"
+		}, {
+			"value" : 100340,
+			"label" : "Regulación de nivel/hidráulica de suspensión"
+		}, {
+			"value" : 100729,
+			"label" : "Regulación lambda"
+		}, {
+			"value" : 100793,
+			"label" : "Regulación lambda"
+		}, {
+			"value" : 100351,
+			"label" : "Regulador"
+		}, {
+			"value" : 100037,
+			"label" : "Regulador de la fuerza de frenado"
+		}, {
+			"value" : 100785,
+			"label" : "Relé"
+		}, {
+			"value" : 103428,
+			"label" : "Relé multifunción"
+		}, {
+			"value" : 100511,
+			"label" : "Relé/Intermitentes"
+		}, {
+			"value" : 100015,
+			"label" : "Remolque / Piezas adicionales"
+		}, {
+			"value" : 100789,
+			"label" : "Retén/kit"
+		}, {
+			"value" : 102778,
+			"label" : "Retenes para ejes"
+		}, {
+			"value" : 100521,
+			"label" : "Retenes radiales/kit"
+		}, {
+			"value" : 101708,
+			"label" : "Revestimiento"
+		}, {
+			"value" : 100739,
+			"label" : "Revestimiento posterior"
+		}, {
+			"value" : 100407,
+			"label" : "Rodillo inversor/guía"
+		}, {
+			"value" : 100457,
+			"label" : "Rodillo inversor/guía"
+		}, {
+			"value" : 100406,
+			"label" : "Rodillo tensor"
+		}, {
+			"value" : 100455,
+			"label" : "Rodillo tensor"
+		}, {
+			"value" : 100198,
+			"label" : "Rótulas de dirección"
+		}, {
+			"value" : 100425,
+			"label" : "Rueda dentada cilíndrica"
+		}, {
+			"value" : 100213,
+			"label" : "Rueda/Fijación de la rueda"
+		}, {
+			"value" : 101833,
+			"label" : "Ruedas dentadas"
+		}, {
+			"value" : 103099,
+			"label" : "Ruedas/neumáticos"
+		}, {
+			"value" : 102809,
+			"label" : "Sensor/sonda"
+		}, {
+			"value" : 103414,
+			"label" : "Sensor/sonda"
+		}, {
+			"value" : 102747,
+			"label" : "Sensores"
+		}, {
+			"value" : 100553,
+			"label" : "Sensores/conmutadores"
+		}, {
+			"value" : 100025,
+			"label" : "Servofrenos"
+		}, {
+			"value" : 100314,
+			"label" : "Silenciador"
+		}, {
+			"value" : 100353,
+			"label" : "Sistema de arranque"
+		}, {
+			"value" : 102903,
+			"label" : "Sistema de carburador"
+		}, {
+			"value" : 100685,
+			"label" : "Sistema de cierre"
+		}, {
+			"value" : 100421,
+			"label" : "Sistema de cinturones"
+		}, {
+			"value" : 100008,
+			"label" : "Sistema de encendido/incandescencia"
+		}, {
+			"value" : 100004,
+			"label" : "Sistema de escape"
+		}, {
+			"value" : 100046,
+			"label" : "Sistema de silenciador, completo"
+		}, {
+			"value" : 100010,
+			"label" : "Sistema eléctrico"
+		}, {
+			"value" : 100754,
+			"label" : "Sistema eléctrico del motor"
+		}, {
+			"value" : 100342,
+			"label" : "Sistema limpiafaro"
+		}, {
+			"value" : 100335,
+			"label" : "Sistemas de confort"
+		}, {
+			"value" : 100417,
+			"label" : "Sistemas de seguridad"
+		}, {
+			"value" : 100390,
+			"label" : "Sobrealimentación"
+		}, {
+			"value" : 100048,
+			"label" : "Sonda Lambda"
+		}, {
+			"value" : 100327,
+			"label" : "Soporte"
+		}, {
+			"value" : 100586,
+			"label" : "Soporte"
+		}, {
+			"value" : 100371,
+			"label" : "Soporte de amortiguadores/columna de suspensión"
+		}, {
+			"value" : 100761,
+			"label" : "Soporte del eje/Chasis"
+		}, {
+			"value" : 100536,
+			"label" : "Soporte del motor"
+		}, {
+			"value" : 100772,
+			"label" : "Soportes"
+		}, {
+			"value" : 100773,
+			"label" : "Soportes"
+		}, {
+			"value" : 100113,
+			"label" : "Suspensión"
+		}, {
+			"value" : 100011,
+			"label" : "Suspensión / Amortiguación"
+		}, {
+			"value" : 100013,
+			"label" : "Suspensión de ejes/Guía de ruedas/Ruedas"
+		}, {
+			"value" : 100535,
+			"label" : "Suspensión del motor"
+		}, {
+			"value" : 100538,
+			"label" : "Suspensión del motor"
+		}, {
+			"value" : 101884,
+			"label" : "Suspensión neumática"
+		}, {
+			"value" : 100033,
+			"label" : "Tambor de freno"
+		}, {
+			"value" : 100379,
+			"label" : "Tapa/junta de llenado de aceite"
+		}, {
+			"value" : 100491,
+			"label" : "Tapón roscado de vaciado"
+		}, {
+			"value" : 100095,
+			"label" : "Termostato"
+		}, {
+			"value" : 100094,
+			"label" : "Termostato / Junta"
+		}, {
+			"value" : 100333,
+			"label" : "Tornillo"
+		}, {
+			"value" : 100378,
+			"label" : "Tornillos de culata"
+		}, {
+			"value" : 100528,
+			"label" : "Tornillos/tuerca  para biela"
+		}, {
+			"value" : 100598,
+			"label" : "Trabajos adicionales"
+		}, {
+			"value" : 100014,
+			"label" : "Tracción a las ruedas"
+		}, {
+			"value" : 100238,
+			"label" : "Transmisión"
+		}, {
+			"value" : 100016,
+			"label" : "Transmisión por correas"
+		}, {
+			"value" : 100400,
+			"label" : "Transmisión por ejes"
+		}, {
+			"value" : 100099,
+			"label" : "Tubería/tubos flexibles/bridas"
+		}, {
+			"value" : 100315,
+			"label" : "Tubos"
+		}, {
+			"value" : 100035,
+			"label" : "Tubos flexibles de frenos/latiguillos"
+		}, {
+			"value" : 100267,
+			"label" : "Unidad de alimentación, completa"
+		}, {
+			"value" : 100252,
+			"label" : "Válvulas"
+		}, {
+			"value" : 100358,
+			"label" : "Válvulas"
+		}, {
+			"value" : 102909,
+			"label" : "Válvulas"
+		}, {
+			"value" : 100423,
+			"label" : "Válvulas/accesorios"
+		}, {
+			"value" : 100422,
+			"label" : "Válvulas/ajuste"
+		}, {
+			"value" : 102219,
+			"label" : "Válvulas/control"
+		}, {
+			"value" : 102811,
+			"label" : "Válvulas/Unidad de válvulas"
+		}, {
+			"value" : 100760,
+			"label" : "Ventilación"
+		}, {
+			"value" : 100337,
+			"label" : "Ventilador"
+		}, {
+			"value" : 100349,
+			"label" : "Ventilador piezas"
+		}, {
+			"value" : 100518,
+			"label" : "Volante motor"
+		}
+	],
+	"Families_1" : [{
+			"Identifier" : 100733,
+			"Text" : "Accesorios",
+			"ParentId_1" : -1,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100243,
+			"Text" : "Aire acondicionado",
+			"ParentId_1" : -1,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100214,
+			"Text" : "Alimentación de combustible",
+			"ParentId_1" : -1,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100241,
+			"Text" : "Calefacción/Ventilación",
+			"ParentId_1" : -1,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100001,
+			"Text" : "Carrocería",
+			"ParentId_1" : -1,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100012,
+			"Text" : "Dirección",
+			"ParentId_1" : -1,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100050,
+			"Text" : "Embrague/ piezas adicionales",
+			"ParentId_1" : -1,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100341,
+			"Text" : "Equipamiento del habitáculo",
+			"ParentId_1" : -1,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100005,
+			"Text" : "Filtros",
+			"ParentId_1" : -1,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100006,
+			"Text" : "Frenos",
+			"ParentId_1" : -1,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100018,
+			"Text" : "Limpieza de cristales",
+			"ParentId_1" : -1,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100002,
+			"Text" : "Motor",
+			"ParentId_1" : -1,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100019,
+			"Text" : "Piezas de servicio, inspección y mantenimiento",
+			"ParentId_1" : -1,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100254,
+			"Text" : "Preparación de la mezcla carburante",
+			"ParentId_1" : -1,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100007,
+			"Text" : "Refrigeración",
+			"ParentId_1" : -1,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100015,
+			"Text" : "Remolque / Piezas adicionales",
+			"ParentId_1" : -1,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 103099,
+			"Text" : "Ruedas/neumáticos",
+			"ParentId_1" : -1,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100685,
+			"Text" : "Sistema de cierre",
+			"ParentId_1" : -1,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100008,
+			"Text" : "Sistema de encendido/incandescencia",
+			"ParentId_1" : -1,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100004,
+			"Text" : "Sistema de escape",
+			"ParentId_1" : -1,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100010,
+			"Text" : "Sistema eléctrico",
+			"ParentId_1" : -1,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100342,
+			"Text" : "Sistema limpiafaro",
+			"ParentId_1" : -1,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100335,
+			"Text" : "Sistemas de confort",
+			"ParentId_1" : -1,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100417,
+			"Text" : "Sistemas de seguridad",
+			"ParentId_1" : -1,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100011,
+			"Text" : "Suspensión / Amortiguación",
+			"ParentId_1" : -1,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100013,
+			"Text" : "Suspensión de ejes/Guía de ruedas/Ruedas",
+			"ParentId_1" : -1,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100014,
+			"Text" : "Tracción a las ruedas",
+			"ParentId_1" : -1,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100238,
+			"Text" : "Transmisión",
+			"ParentId_1" : -1,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100016,
+			"Text" : "Transmisión por correas",
+			"ParentId_1" : -1,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100400,
+			"Text" : "Transmisión por ejes",
+			"ParentId_1" : -1,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}
+	],
+	"Families_2" : [{
+			"Identifier" : 103102,
+			"Text" : "Accesorios",
+			"ParentId_1" : 103099,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100515,
+			"Text" : "Accionamiento del cigüeñal",
+			"ParentId_1" : 100002,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100079,
+			"Text" : "Accionamiento del embrague",
+			"ParentId_1" : 100050,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100382,
+			"Text" : "Acumulador de presión / Interruptor",
+			"ParentId_1" : 100006,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100383,
+			"Text" : "Alimentación de aire",
+			"ParentId_1" : 100002,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100121,
+			"Text" : "Amortiguadores",
+			"ParentId_1" : 100011,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 102205,
+			"Text" : "Anticongelante",
+			"ParentId_1" : 100007,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100247,
+			"Text" : "Aparato de mando/Relés/sensores",
+			"ParentId_1" : 100008,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100727,
+			"Text" : "Aparatos de mando (unidades de control)",
+			"ParentId_1" : 100010,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100062,
+			"Text" : "Arbol de transmisión",
+			"ParentId_1" : 100014,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100200,
+			"Text" : "Armortiguadores de dirección",
+			"ParentId_1" : 100012,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100071,
+			"Text" : "Articulación / Juego",
+			"ParentId_1" : 100014,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100673,
+			"Text" : "Asientos",
+			"ParentId_1" : 100341,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100601,
+			"Text" : "Barras de acoplamiento/piezas",
+			"ParentId_1" : 100012,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100042,
+			"Text" : "Batería",
+			"ParentId_1" : 100010,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100514,
+			"Text" : "Bloque motor",
+			"ParentId_1" : 100002,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100150,
+			"Text" : "Bobina de encendido",
+			"ParentId_1" : 100008,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100320,
+			"Text" : "Bocina/bocina electroneumática",
+			"ParentId_1" : 100010,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100088,
+			"Text" : "Bomba de agua / Junta",
+			"ParentId_1" : 100007,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100039,
+			"Text" : "Bomba de vacío",
+			"ParentId_1" : 100006,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100135,
+			"Text" : "Bomba del agua de lavar",
+			"ParentId_1" : 100018,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100251,
+			"Text" : "Bomba/accesorios",
+			"ParentId_1" : 100214,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100136,
+			"Text" : "Brazo del limpiaparabrisas/ Soporte",
+			"ParentId_1" : 100018,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100208,
+			"Text" : "Brazo oscilante/soporte",
+			"ParentId_1" : 100013,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100152,
+			"Text" : "Bujía de precalentamiento",
+			"ParentId_1" : 100008,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 101837,
+			"Text" : "Busca artículo por gráfica",
+			"ParentId_1" : 100013,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 102438,
+			"Text" : "Busca artículo por gráfica",
+			"ParentId_1" : 100016,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100153,
+			"Text" : "Cable de encendido/Piezas de conexión",
+			"ParentId_1" : 100008,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100239,
+			"Text" : "Caja de cambios",
+			"ParentId_1" : 100238,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100240,
+			"Text" : "Caja de cambios automática",
+			"ParentId_1" : 100238,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100212,
+			"Text" : "Cárter de eje/Soporte",
+			"ParentId_1" : 100013,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100028,
+			"Text" : "Cilindro de rueda",
+			"ParentId_1" : 100006,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100026,
+			"Text" : "Cilindro principal",
+			"ParentId_1" : 100006,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100715,
+			"Text" : "Codo/colector",
+			"ParentId_1" : 100004,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100054,
+			"Text" : "Cojinete de desembrague / Cojinete de empuje central",
+			"ParentId_1" : 100050,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100381,
+			"Text" : "Columna de suspensión/amortiguador/piezas de montaje",
+			"ParentId_1" : 100011,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100354,
+			"Text" : "Compresor/piezas",
+			"ParentId_1" : 100243,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100085,
+			"Text" : "Correa dentada /Juego",
+			"ParentId_1" : 100016,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100082,
+			"Text" : "Correa poli V/Juego",
+			"ParentId_1" : 100016,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100080,
+			"Text" : "Correa trapezoidal / Juego",
+			"ParentId_1" : 100016,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100744,
+			"Text" : "Cristales/Espejos",
+			"ParentId_1" : 100001,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100746,
+			"Text" : "Cubiertas/capó/puertas/techo plegable, corredizo",
+			"ParentId_1" : 100001,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100206,
+			"Text" : "Cubo/Cojinetes de rueda",
+			"ParentId_1" : 100013,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100373,
+			"Text" : "Culatas de cilindro / Piezas adicionales",
+			"ParentId_1" : 100002,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100216,
+			"Text" : "Depósito de combustible / Piezas",
+			"ParentId_1" : 100001,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100250,
+			"Text" : "Depósito de combustible/accesorios",
+			"ParentId_1" : 100214,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100541,
+			"Text" : "Depuración de los gases de escape",
+			"ParentId_1" : 100002,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100790,
+			"Text" : "Depuración gases de escape",
+			"ParentId_1" : 100254,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100415,
+			"Text" : "Diferencial",
+			"ParentId_1" : 100400,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100041,
+			"Text" : "Dínamo/alternador/piezas",
+			"ParentId_1" : 100010,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100053,
+			"Text" : "Disco de embrague",
+			"ParentId_1" : 100050,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100003,
+			"Text" : "Distribución del motor",
+			"ParentId_1" : 100002,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100148,
+			"Text" : "Distribuidor de encendido/Piezas",
+			"ParentId_1" : 100008,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100594,
+			"Text" : "Elementos de transmisión, dirección",
+			"ParentId_1" : 100012,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100751,
+			"Text" : "Elevalunas",
+			"ParentId_1" : 100335,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 102691,
+			"Text" : "Elevalunas",
+			"ParentId_1" : 100341,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100210,
+			"Text" : "Estabilizador/ Piezas de sujeción",
+			"ParentId_1" : 100013,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100787,
+			"Text" : "Faros adicionales/Piezas",
+			"ParentId_1" : 100010,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 101340,
+			"Text" : "Faros adicionales/Piezas",
+			"ParentId_1" : 100001,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100143,
+			"Text" : "Faros principales/Piezas",
+			"ParentId_1" : 100010,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 101465,
+			"Text" : "Faros principales/Piezas",
+			"ParentId_1" : 100001,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100735,
+			"Text" : "Fijación / Soporte columna de suspensión",
+			"ParentId_1" : 100013,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100261,
+			"Text" : "Filtro combustible",
+			"ParentId_1" : 100005,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100253,
+			"Text" : "Filtro combustible/cubierta",
+			"ParentId_1" : 100214,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100260,
+			"Text" : "Filtro de aire",
+			"ParentId_1" : 100005,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100591,
+			"Text" : "Filtro de dirección",
+			"ParentId_1" : 100012,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100262,
+			"Text" : "Filtro hidráulico",
+			"ParentId_1" : 100005,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100259,
+			"Text" : "Filtros de aceite",
+			"ParentId_1" : 100005,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100626,
+			"Text" : "Freno de disco",
+			"ParentId_1" : 100006,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100627,
+			"Text" : "Freno de tambor",
+			"ParentId_1" : 100006,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100034,
+			"Text" : "Frenos de estacionamiento",
+			"ParentId_1" : 100006,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100074,
+			"Text" : "Fuelle",
+			"ParentId_1" : 100014,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100201,
+			"Text" : "Fuelle / Junta",
+			"ParentId_1" : 100012,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 101690,
+			"Text" : "Habitáculo",
+			"ParentId_1" : 100001,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 103129,
+			"Text" : "Herramientas",
+			"ParentId_1" : 100002,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100043,
+			"Text" : "Iluminación/Sistema de señales",
+			"ParentId_1" : 100010,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 101407,
+			"Text" : "Iluminación/Sistema de señales",
+			"ParentId_1" : 100001,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100322,
+			"Text" : "Instrumentos",
+			"ParentId_1" : 100010,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100347,
+			"Text" : "Intercambiador de calor",
+			"ParentId_1" : 100241,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 102248,
+			"Text" : "Interruptor luces freno",
+			"ParentId_1" : 100006,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100334,
+			"Text" : "Interruptor/Sensor",
+			"ParentId_1" : 100007,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100613,
+			"Text" : "Interruptores / Relés",
+			"ParentId_1" : 100018,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100366,
+			"Text" : "Interruptores/conmutadores",
+			"ParentId_1" : 100243,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100307,
+			"Text" : "Interruptores/Relés/Aparatos de mando de iluminación",
+			"ParentId_1" : 100010,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100051,
+			"Text" : "Juego de embragues",
+			"ParentId_1" : 100050,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100223,
+			"Text" : "Juntas",
+			"ParentId_1" : 100002,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100133,
+			"Text" : "Limpiaparabrisas/Escobillas",
+			"ParentId_1" : 100018,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100245,
+			"Text" : "Lubricación",
+			"ParentId_1" : 100002,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100862,
+			"Text" : "Maletero, compartimiento de carga",
+			"ParentId_1" : 100733,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 102697,
+			"Text" : "Maletero/compartimiento de carga",
+			"ParentId_1" : 100341,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100691,
+			"Text" : "Manecilla de puerta",
+			"ParentId_1" : 100685,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100779,
+			"Text" : "Manejo/control",
+			"ParentId_1" : 100243,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100207,
+			"Text" : "Mangueta /Juego de reparación",
+			"ParentId_1" : 100013,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100199,
+			"Text" : "Mecanismo/bomba de dirección",
+			"ParentId_1" : 100012,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100246,
+			"Text" : "Módulo de encendido/bloque electrónico",
+			"ParentId_1" : 100008,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100826,
+			"Text" : "Muelles neumáticos",
+			"ParentId_1" : 100001,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100635,
+			"Text" : "Palancas /Cables",
+			"ParentId_1" : 100006,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 101648,
+			"Text" : "Parte delantera del vehículo",
+			"ParentId_1" : 100001,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 101705,
+			"Text" : "Parte trasera vehículo",
+			"ParentId_1" : 100001,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100743,
+			"Text" : "Partes de la carrocería/Guardabarros/Parachoques",
+			"ParentId_1" : 100001,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100066,
+			"Text" : "Piezas de fijación/ de accesorios",
+			"ParentId_1" : 100014,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100222,
+			"Text" : "Piezas de montaje",
+			"ParentId_1" : 100004,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100597,
+			"Text" : "Piezas de servicio/mantenimiento",
+			"ParentId_1" : 100019,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100608,
+			"Text" : "Piezas eléctricas",
+			"ParentId_1" : 100015,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100609,
+			"Text" : "Piezas/Piezas de montaje",
+			"ParentId_1" : 100015,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100027,
+			"Text" : "Pinza del freno",
+			"ParentId_1" : 100006,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100052,
+			"Text" : "Plato de presión del embrague",
+			"ParentId_1" : 100050,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 101470,
+			"Text" : "Precalentamiento de agua refrigeración",
+			"ParentId_1" : 100241,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 102793,
+			"Text" : "Preparación mezcla",
+			"ParentId_1" : 100254,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100102,
+			"Text" : "Radiador de agua/aceite",
+			"ParentId_1" : 100007,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100338,
+			"Text" : "Refrigeración de aire",
+			"ParentId_1" : 100007,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100340,
+			"Text" : "Regulación de nivel/hidráulica de suspensión",
+			"ParentId_1" : 100011,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100037,
+			"Text" : "Regulador de la fuerza de frenado",
+			"ParentId_1" : 100006,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100785,
+			"Text" : "Relé",
+			"ParentId_1" : 100010,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 103428,
+			"Text" : "Relé multifunción",
+			"ParentId_1" : 100010,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100511,
+			"Text" : "Relé/Intermitentes",
+			"ParentId_1" : 100010,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100198,
+			"Text" : "Rótulas de dirección",
+			"ParentId_1" : 100012,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100213,
+			"Text" : "Rueda/Fijación de la rueda",
+			"ParentId_1" : 100013,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 103414,
+			"Text" : "Sensor/sonda",
+			"ParentId_1" : 100004,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 102747,
+			"Text" : "Sensores",
+			"ParentId_1" : 100010,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100025,
+			"Text" : "Servofrenos",
+			"ParentId_1" : 100006,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100314,
+			"Text" : "Silenciador",
+			"ParentId_1" : 100004,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100353,
+			"Text" : "Sistema de arranque",
+			"ParentId_1" : 100010,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 102903,
+			"Text" : "Sistema de carburador",
+			"ParentId_1" : 100254,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100421,
+			"Text" : "Sistema de cinturones",
+			"ParentId_1" : 100417,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100046,
+			"Text" : "Sistema de silenciador, completo",
+			"ParentId_1" : 100004,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100754,
+			"Text" : "Sistema eléctrico del motor",
+			"ParentId_1" : 100002,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100048,
+			"Text" : "Sonda Lambda",
+			"ParentId_1" : 100004,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100371,
+			"Text" : "Soporte de amortiguadores/columna de suspensión",
+			"ParentId_1" : 100011,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100113,
+			"Text" : "Suspensión",
+			"ParentId_1" : 100011,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100535,
+			"Text" : "Suspensión del motor",
+			"ParentId_1" : 100002,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 101884,
+			"Text" : "Suspensión neumática",
+			"ParentId_1" : 100011,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100094,
+			"Text" : "Termostato / Junta",
+			"ParentId_1" : 100007,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100598,
+			"Text" : "Trabajos adicionales",
+			"ParentId_1" : 100019,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100099,
+			"Text" : "Tubería/tubos flexibles/bridas",
+			"ParentId_1" : 100007,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100315,
+			"Text" : "Tubos",
+			"ParentId_1" : 100004,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100035,
+			"Text" : "Tubos flexibles de frenos/latiguillos",
+			"ParentId_1" : 100006,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100267,
+			"Text" : "Unidad de alimentación, completa",
+			"ParentId_1" : 100214,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100252,
+			"Text" : "Válvulas",
+			"ParentId_1" : 100214,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100358,
+			"Text" : "Válvulas",
+			"ParentId_1" : 100243,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 102219,
+			"Text" : "Válvulas/control",
+			"ParentId_1" : 100241,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100337,
+			"Text" : "Ventilador",
+			"ParentId_1" : 100007,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100349,
+			"Text" : "Ventilador piezas",
+			"ParentId_1" : 100241,
+			"ParentId_2" : -1,
+			"ParentId_3" : -1
+		}
+	],
+	"Families_3" : [{
+			"Identifier" : 100630,
+			"Text" : "Accesorios/piezas",
+			"ParentId_1" : 100006,
+			"ParentId_2" : 100626,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100634,
+			"Text" : "Accesorios/piezas",
+			"ParentId_1" : 100006,
+			"ParentId_2" : 100627,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100718,
+			"Text" : "Accesorios/piezas",
+			"ParentId_1" : 100214,
+			"ParentId_2" : 100251,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 101808,
+			"Text" : "Accionamiento de la transmisión",
+			"ParentId_1" : 100238,
+			"ParentId_2" : 100239,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 102910,
+			"Text" : "Accionamiento/Amortiguación/Cámaras",
+			"ParentId_1" : 100254,
+			"ParentId_2" : 102903,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 101994,
+			"Text" : "Aceites",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100245,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100539,
+			"Text" : "Amortiguador  de suspensión del motor",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100535,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100572,
+			"Text" : "Apoyo/sujeción",
+			"ParentId_1" : 100013,
+			"ParentId_2" : 100208,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100397,
+			"Text" : "Árbol de levas",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100003,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100561,
+			"Text" : "Árbol de velocímetro",
+			"ParentId_1" : 100010,
+			"ParentId_2" : 100322,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100767,
+			"Text" : "Árbol intermedio/Árbol de compensación",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100514,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 103120,
+			"Text" : "Árbol intermedio/Árbol de compensación",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100515,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100577,
+			"Text" : "Barra de acoplamiento",
+			"ParentId_1" : 100013,
+			"ParentId_2" : 100210,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100197,
+			"Text" : "Barras de acoplamiento",
+			"ParentId_1" : 100012,
+			"ParentId_2" : 100601,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 101504,
+			"Text" : "Bastidor auxiliar/soporte de equipos",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 100743,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100519,
+			"Text" : "Biela",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100515,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100533,
+			"Text" : "Bloque motor",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100514,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100476,
+			"Text" : "Bomba de aceite / Piezas adicionales",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100245,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100091,
+			"Text" : "Bomba de agua",
+			"ParentId_1" : 100007,
+			"ParentId_2" : 100088,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100717,
+			"Text" : "Bomba de combustible",
+			"ParentId_1" : 100214,
+			"ParentId_2" : 100251,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 102450,
+			"Text" : "Bomba vacío",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100373,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100571,
+			"Text" : "Brazo oscilante (long. transv. inclinado)",
+			"ParentId_1" : 100013,
+			"ParentId_2" : 100208,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 102908,
+			"Text" : "Brida",
+			"ParentId_1" : 100254,
+			"ParentId_2" : 102903,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100840,
+			"Text" : "Bridas",
+			"ParentId_1" : 100007,
+			"ParentId_2" : 100099,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100077,
+			"Text" : "Cable del embrague",
+			"ParentId_1" : 100050,
+			"ParentId_2" : 100079,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100385,
+			"Text" : "Cable/ varillaje acelerador",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100383,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100184,
+			"Text" : "Capó delantero/piezas/amortiguación",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 100746,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 101654,
+			"Text" : "Capó delantero/piezas/amortiguación",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101648,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 101783,
+			"Text" : "Capó delantero/piezas/amortiguación",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101705,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100475,
+			"Text" : "Cárter de aceite / piezas adicionales",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100245,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 101853,
+			"Text" : "Cárter de aceite / piezas adicionales",
+			"ParentId_1" : 100238,
+			"ParentId_2" : 100240,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100165,
+			"Text" : "Cárter de la rueda",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 100743,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100056,
+			"Text" : "Casquillo corredizo",
+			"ParentId_1" : 100050,
+			"ParentId_2" : 100054,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100181,
+			"Text" : "Chapa lateral",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 100743,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 101696,
+			"Text" : "Chapa lateral",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101690,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 101780,
+			"Text" : "Chapa lateral",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101705,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100517,
+			"Text" : "Cigüeñal",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100515,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 102965,
+			"Text" : "Cilindro de rueda",
+			"ParentId_1" : 100006,
+			"ParentId_2" : 100627,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100061,
+			"Text" : "Cilindro principal",
+			"ParentId_1" : 100050,
+			"ParentId_2" : 100079,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100060,
+			"Text" : "Cilindro receptor",
+			"ParentId_1" : 100050,
+			"ParentId_2" : 100079,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100055,
+			"Text" : "Cojinete de empuje",
+			"ParentId_1" : 100050,
+			"ParentId_2" : 100054,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100579,
+			"Text" : "Cojinete de rueda",
+			"ParentId_1" : 100013,
+			"ParentId_2" : 100206,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 102804,
+			"Text" : "Conductos, distribución combustible",
+			"ParentId_1" : 100254,
+			"ParentId_2" : 102793,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100776,
+			"Text" : "Control/Sistema hidráulico",
+			"ParentId_1" : 100238,
+			"ParentId_2" : 100240,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100396,
+			"Text" : "Correa dentada / guía / tensión",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100003,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100452,
+			"Text" : "Correa dentada/Arbol de levas",
+			"ParentId_1" : 100016,
+			"ParentId_2" : 100085,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100431,
+			"Text" : "Correa poli V",
+			"ParentId_1" : 100016,
+			"ParentId_2" : 100082,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100450,
+			"Text" : "Correa trapezoidal",
+			"ParentId_1" : 100016,
+			"ParentId_2" : 100080,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 101655,
+			"Text" : "Cristal delantero",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101648,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100745,
+			"Text" : "Cristales",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 100744,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100578,
+			"Text" : "Cubo de la rueda",
+			"ParentId_1" : 100013,
+			"ParentId_2" : 100206,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100512,
+			"Text" : "Depósito de aceite",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100245,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 101760,
+			"Text" : "Depósito de combustible / Piezas",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101690,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 101763,
+			"Text" : "Depósito de combustible / Piezas",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101705,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100112,
+			"Text" : "Depósito de compensación",
+			"ParentId_1" : 100007,
+			"ParentId_2" : 100102,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100350,
+			"Text" : "Dinamo/alternador",
+			"ParentId_1" : 100010,
+			"ParentId_2" : 100041,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100032,
+			"Text" : "Disco de freno",
+			"ParentId_1" : 100006,
+			"ParentId_2" : 100626,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 102794,
+			"Text" : "Dispositivo de parada",
+			"ParentId_1" : 100254,
+			"ParentId_2" : 102793,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100399,
+			"Text" : "Empujadores/varillas/ tubo protector",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100003,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100276,
+			"Text" : "Faros de carretera/Piezas",
+			"ParentId_1" : 100010,
+			"ParentId_2" : 100787,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 101345,
+			"Text" : "Faros de carretera/Piezas",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101340,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 101665,
+			"Text" : "Faros de carretera/Piezas",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101648,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100277,
+			"Text" : "Faros de luz antiniebla/Piezas",
+			"ParentId_1" : 100010,
+			"ParentId_2" : 100787,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 101341,
+			"Text" : "Faros de luz antiniebla/Piezas",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101340,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 101661,
+			"Text" : "Faros de luz antiniebla/Piezas",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101648,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 101656,
+			"Text" : "Faros principales/Piezas",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101648,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100384,
+			"Text" : "Filtro/caja de filtro de aire",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100383,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100470,
+			"Text" : "Filtros de aceite",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100245,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100031,
+			"Text" : "Forro/Zapata de freno",
+			"ParentId_1" : 100006,
+			"ParentId_2" : 100627,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 102964,
+			"Text" : "Frenos de estacionamiento",
+			"ParentId_1" : 100006,
+			"ParentId_2" : 100627,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100185,
+			"Text" : "Guardabarros/piezas adosadas",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 100743,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 101650,
+			"Text" : "Guardabarros/piezas adosadas",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101648,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 101779,
+			"Text" : "Guardabarros/piezas adosadas",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101705,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 103150,
+			"Text" : "Herramientas",
+			"ParentId_1" : 100254,
+			"ParentId_2" : 102793,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100292,
+			"Text" : "Iluminación interior",
+			"ParentId_1" : 100010,
+			"ParentId_2" : 100043,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 102911,
+			"Text" : "Interruptor /Relé",
+			"ParentId_1" : 100254,
+			"ParentId_2" : 102903,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100478,
+			"Text" : "Interruptor/ Sensor/ Válvula de la presión de aceite",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100245,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100509,
+			"Text" : "Interruptor/regulador",
+			"ParentId_1" : 100010,
+			"ParentId_2" : 100307,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 102799,
+			"Text" : "Inyectores",
+			"ParentId_1" : 100254,
+			"ParentId_2" : 102793,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100534,
+			"Text" : "Juego camisa cilindro",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100514,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100224,
+			"Text" : "Juego completo de juntas",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100223,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100453,
+			"Text" : "Juego de correa dentada",
+			"ParentId_1" : 100016,
+			"ParentId_2" : 100085,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 102763,
+			"Text" : "Juego de frenos",
+			"ParentId_1" : 100006,
+			"ParentId_2" : 100627,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100316,
+			"Text" : "Juego de montaje",
+			"ParentId_1" : 100004,
+			"ParentId_2" : 100222,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100089,
+			"Text" : "Junta",
+			"ParentId_1" : 100007,
+			"ParentId_2" : 100088,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100096,
+			"Text" : "Junta",
+			"ParentId_1" : 100007,
+			"ParentId_2" : 100094,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 102795,
+			"Text" : "Junta",
+			"ParentId_1" : 100254,
+			"ParentId_2" : 102793,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100376,
+			"Text" : "Junta anular, colector admsión/escape",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100373,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100231,
+			"Text" : "Junta anular/colector admisión",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100223,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100683,
+			"Text" : "Junta de agua refrigerante",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100223,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100234,
+			"Text" : "Junta de cárter de aceite",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100223,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100229,
+			"Text" : "Junta de colector de admisión",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100223,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100375,
+			"Text" : "Junta de cubierta de culata de cilindro",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100373,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100374,
+			"Text" : "Junta de culata de cilindro",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100373,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100580,
+			"Text" : "Junta de retén radial",
+			"ParentId_1" : 100013,
+			"ParentId_2" : 100206,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100684,
+			"Text" : "Junta del circuito de aceite",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100223,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100233,
+			"Text" : "Junta, bloque motor",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100223,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100377,
+			"Text" : "Junta/guía/ajuste de válvulas",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100373,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100769,
+			"Text" : "Juntas",
+			"ParentId_1" : 100238,
+			"ParentId_2" : 100239,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100770,
+			"Text" : "Juntas",
+			"ParentId_1" : 100238,
+			"ParentId_2" : 100240,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100225,
+			"Text" : "Juntas de culata",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100223,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100227,
+			"Text" : "Juntas de tapas de válvulas",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100223,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100228,
+			"Text" : "Juntas de vástago de válvula",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100223,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100682,
+			"Text" : "Juntas sistema de combustible",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100223,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100788,
+			"Text" : "Juntas/tubo de llenado refrigerante",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100373,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100427,
+			"Text" : "Lámpara de faro",
+			"ParentId_1" : 100010,
+			"ParentId_2" : 100143,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 101467,
+			"Text" : "Lámpara de faro",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101465,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100155,
+			"Text" : "Largueros/travesaños",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 100743,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100284,
+			"Text" : "Luces de freno/Piezas",
+			"ParentId_1" : 100010,
+			"ParentId_2" : 100043,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 101415,
+			"Text" : "Luces de freno/Piezas",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101407,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 101722,
+			"Text" : "Luces de freno/Piezas",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101705,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100291,
+			"Text" : "Luces de las puertas",
+			"ParentId_1" : 100010,
+			"ParentId_2" : 100043,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 101452,
+			"Text" : "Luces de las puertas",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101407,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100287,
+			"Text" : "Luces de marcha atrás/Piezas",
+			"ParentId_1" : 100010,
+			"ParentId_2" : 100043,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 101432,
+			"Text" : "Luces de marcha atrás/Piezas",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101407,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 101739,
+			"Text" : "Luces de marcha atrás/Piezas",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101705,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100147,
+			"Text" : "Luces de matrícula/ Piezas",
+			"ParentId_1" : 100010,
+			"ParentId_2" : 100043,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 101424,
+			"Text" : "Luces de matrícula/ Piezas",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101407,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 101731,
+			"Text" : "Luces de matrícula/ Piezas",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101705,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100290,
+			"Text" : "Luces de posición/estacionamiento/Gálibo/Piezas",
+			"ParentId_1" : 100010,
+			"ParentId_2" : 100043,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 101441,
+			"Text" : "Luces de posición/estacionamiento/Gálibo/Piezas",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101407,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 101766,
+			"Text" : "Luces de posición/estacionamiento/Gálibo/Piezas",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101648,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 101785,
+			"Text" : "Luces de posición/estacionamiento/Gálibo/Piezas",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101705,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100145,
+			"Text" : "Luces intermitentes / Piezas",
+			"ParentId_1" : 100010,
+			"ParentId_2" : 100043,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 101420,
+			"Text" : "Luces intermitentes / Piezas",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101407,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 101669,
+			"Text" : "Luces intermitentes / Piezas",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101648,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 101727,
+			"Text" : "Luces intermitentes / Piezas",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101705,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100275,
+			"Text" : "Luces traseras /Piezas",
+			"ParentId_1" : 100010,
+			"ParentId_2" : 100043,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100285,
+			"Text" : "Luces traseras antiniebla/Piezas",
+			"ParentId_1" : 100010,
+			"ParentId_2" : 100043,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 101428,
+			"Text" : "Luces traseras antiniebla/Piezas",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101407,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 101735,
+			"Text" : "Luces traseras antiniebla/Piezas",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101705,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 101411,
+			"Text" : "Luces traseras rojas/Piezas",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101407,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 101718,
+			"Text" : "Luces traseras rojas/Piezas",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101705,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100587,
+			"Text" : "Mangueta",
+			"ParentId_1" : 100013,
+			"ParentId_2" : 100207,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100100,
+			"Text" : "Manguitos y tubos para el agua refrigerante",
+			"ParentId_1" : 100007,
+			"ParentId_2" : 100099,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100169,
+			"Text" : "Montante de puerta/acceso",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 100743,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 101692,
+			"Text" : "Montante de puerta/acceso",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101690,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100359,
+			"Text" : "Motor de arranque",
+			"ParentId_1" : 100010,
+			"ParentId_2" : 100353,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100803,
+			"Text" : "Muñón de eje",
+			"ParentId_1" : 100013,
+			"ParentId_2" : 100206,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100168,
+			"Text" : "Panel del piso/bajos",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 100743,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 101707,
+			"Text" : "Panel del piso/bajos",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101705,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100030,
+			"Text" : "Pastilla de freno",
+			"ParentId_1" : 100006,
+			"ParentId_2" : 100626,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100806,
+			"Text" : "Piezas",
+			"ParentId_1" : 100006,
+			"ParentId_2" : 100027,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100372,
+			"Text" : "Piezas adicionales",
+			"ParentId_1" : 100011,
+			"ParentId_2" : 100381,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100603,
+			"Text" : "Piezas de barras de acoplamiento",
+			"ParentId_1" : 100012,
+			"ParentId_2" : 100601,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100105,
+			"Text" : "Piezas de fijación del radiador",
+			"ParentId_1" : 100007,
+			"ParentId_2" : 100102,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100317,
+			"Text" : "Piezas de montaje",
+			"ParentId_1" : 100004,
+			"ParentId_2" : 100222,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100596,
+			"Text" : "Piezas de sujeción",
+			"ParentId_1" : 100013,
+			"ParentId_2" : 100210,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 101700,
+			"Text" : "Piezas individuales/piezas de montaje",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101690,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 101745,
+			"Text" : "Piezas individuales/piezas de montaje",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101705,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 101673,
+			"Text" : "Piezas individuales/piezas de montaje",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101648,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 102800,
+			"Text" : "Piezas portainyector/inyector",
+			"ParentId_1" : 100254,
+			"ParentId_2" : 102793,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100807,
+			"Text" : "Pinza de freno/soporte",
+			"ParentId_1" : 100006,
+			"ParentId_2" : 100027,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100520,
+			"Text" : "Pistón",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100515,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 101781,
+			"Text" : "Puerta trasera /piezas",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101705,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100189,
+			"Text" : "Puertas/piezas",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 100746,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 101694,
+			"Text" : "Puertas/piezas",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101690,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100108,
+			"Text" : "Radiador de aceite",
+			"ParentId_1" : 100007,
+			"ParentId_2" : 100102,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100474,
+			"Text" : "Radiador de aceite / Piezas adicionales",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100245,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100103,
+			"Text" : "Radiador/piezas",
+			"ParentId_1" : 100007,
+			"ParentId_2" : 100102,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100104,
+			"Text" : "Refrigeración de la calefacción",
+			"ParentId_1" : 100007,
+			"ParentId_2" : 100102,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100729,
+			"Text" : "Regulación lambda",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100541,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100793,
+			"Text" : "Regulación lambda",
+			"ParentId_1" : 100254,
+			"ParentId_2" : 100790,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100351,
+			"Text" : "Regulador",
+			"ParentId_1" : 100010,
+			"ParentId_2" : 100041,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100789,
+			"Text" : "Retén/kit",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100223,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 102778,
+			"Text" : "Retenes para ejes",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100373,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100521,
+			"Text" : "Retenes radiales/kit",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100515,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 101708,
+			"Text" : "Revestimiento",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101705,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100739,
+			"Text" : "Revestimiento posterior",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 100743,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100457,
+			"Text" : "Rodillo inversor/guía",
+			"ParentId_1" : 100016,
+			"ParentId_2" : 100085,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100455,
+			"Text" : "Rodillo tensor",
+			"ParentId_1" : 100016,
+			"ParentId_2" : 100085,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100425,
+			"Text" : "Rueda dentada cilíndrica",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100003,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 101833,
+			"Text" : "Ruedas dentadas",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100003,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 102809,
+			"Text" : "Sensor/sonda",
+			"ParentId_1" : 100254,
+			"ParentId_2" : 102793,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100553,
+			"Text" : "Sensores/conmutadores",
+			"ParentId_1" : 100010,
+			"ParentId_2" : 100322,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100390,
+			"Text" : "Sobrealimentación",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100383,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100586,
+			"Text" : "Soporte",
+			"ParentId_1" : 100013,
+			"ParentId_2" : 100212,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100761,
+			"Text" : "Soporte del eje/Chasis",
+			"ParentId_1" : 100013,
+			"ParentId_2" : 100212,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100536,
+			"Text" : "Soporte del motor",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100535,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100772,
+			"Text" : "Soportes",
+			"ParentId_1" : 100238,
+			"ParentId_2" : 100239,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100773,
+			"Text" : "Soportes",
+			"ParentId_1" : 100238,
+			"ParentId_2" : 100240,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100538,
+			"Text" : "Suspensión del motor",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100535,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100033,
+			"Text" : "Tambor de freno",
+			"ParentId_1" : 100006,
+			"ParentId_2" : 100627,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100379,
+			"Text" : "Tapa/junta de llenado de aceite",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100373,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100095,
+			"Text" : "Termostato",
+			"ParentId_1" : 100007,
+			"ParentId_2" : 100094,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100378,
+			"Text" : "Tornillos de culata",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100373,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 102909,
+			"Text" : "Válvulas",
+			"ParentId_1" : 100254,
+			"ParentId_2" : 102903,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100422,
+			"Text" : "Válvulas/ajuste",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100003,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 102811,
+			"Text" : "Válvulas/Unidad de válvulas",
+			"ParentId_1" : 100254,
+			"ParentId_2" : 102793,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100760,
+			"Text" : "Ventilación",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100514,
+			"ParentId_3" : -1
+		}, {
+			"Identifier" : 100518,
+			"Text" : "Volante motor",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100515,
+			"ParentId_3" : -1
+		}
+	],
+	"Families_4" : [{
+			"Identifier" : 100323,
+			"Text" : "Abrazadera",
+			"ParentId_1" : 100004,
+			"ParentId_2" : 100222,
+			"ParentId_3" : 100317
+		}, {
+			"Identifier" : 100424,
+			"Text" : "Accionamiento de válvulas",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100003,
+			"ParentId_3" : 100422
+		}, {
+			"Identifier" : 100325,
+			"Text" : "Amortiguador de goma",
+			"ParentId_1" : 100004,
+			"ParentId_2" : 100222,
+			"ParentId_3" : 100317
+		}, {
+			"Identifier" : 100324,
+			"Text" : "Anillo de goma",
+			"ParentId_1" : 100004,
+			"ParentId_2" : 100222,
+			"ParentId_3" : 100317
+		}, {
+			"Identifier" : 100492,
+			"Text" : "Bomba de aceite",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100245,
+			"ParentId_3" : 100476
+		}, {
+			"Identifier" : 100501,
+			"Text" : "Bombilla para luces de marcha atrás",
+			"ParentId_1" : 100010,
+			"ParentId_2" : 100043,
+			"ParentId_3" : 100287
+		}, {
+			"Identifier" : 101435,
+			"Text" : "Bombilla para luces de marcha atrás",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101407,
+			"ParentId_3" : 101432
+		}, {
+			"Identifier" : 101742,
+			"Text" : "Bombilla para luces de marcha atrás",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101705,
+			"ParentId_3" : 101739
+		}, {
+			"Identifier" : 100498,
+			"Text" : "Bombilla para luces intermitentes",
+			"ParentId_1" : 100010,
+			"ParentId_2" : 100043,
+			"ParentId_3" : 100145
+		}, {
+			"Identifier" : 101423,
+			"Text" : "Bombilla para luces intermitentes",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101407,
+			"ParentId_3" : 101420
+		}, {
+			"Identifier" : 101672,
+			"Text" : "Bombilla para luces intermitentes",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101648,
+			"ParentId_3" : 101669
+		}, {
+			"Identifier" : 101730,
+			"Text" : "Bombilla para luces intermitentes",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101705,
+			"ParentId_3" : 101727
+		}, {
+			"Identifier" : 100503,
+			"Text" : "Bombillas",
+			"ParentId_1" : 100010,
+			"ParentId_2" : 100043,
+			"ParentId_3" : 100290
+		}, {
+			"Identifier" : 101445,
+			"Text" : "Bombillas",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101407,
+			"ParentId_3" : 101441
+		}, {
+			"Identifier" : 101770,
+			"Text" : "Bombillas",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101648,
+			"ParentId_3" : 101766
+		}, {
+			"Identifier" : 101789,
+			"Text" : "Bombillas",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101705,
+			"ParentId_3" : 101785
+		}, {
+			"Identifier" : 100500,
+			"Text" : "Bombillas p.luces traseras antinieblas",
+			"ParentId_1" : 100010,
+			"ParentId_2" : 100043,
+			"ParentId_3" : 100285
+		}, {
+			"Identifier" : 101431,
+			"Text" : "Bombillas p.luces traseras antinieblas",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101407,
+			"ParentId_3" : 101428
+		}, {
+			"Identifier" : 101738,
+			"Text" : "Bombillas p.luces traseras antinieblas",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101705,
+			"ParentId_3" : 101735
+		}, {
+			"Identifier" : 100496,
+			"Text" : "Bombillas para luces de frenos",
+			"ParentId_1" : 100010,
+			"ParentId_2" : 100043,
+			"ParentId_3" : 100284
+		}, {
+			"Identifier" : 101419,
+			"Text" : "Bombillas para luces de frenos",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101407,
+			"ParentId_3" : 101415
+		}, {
+			"Identifier" : 101726,
+			"Text" : "Bombillas para luces de frenos",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101705,
+			"ParentId_3" : 101722
+		}, {
+			"Identifier" : 100499,
+			"Text" : "Bombillas para luces de matrícula",
+			"ParentId_1" : 100010,
+			"ParentId_2" : 100043,
+			"ParentId_3" : 100147
+		}, {
+			"Identifier" : 101427,
+			"Text" : "Bombillas para luces de matrícula",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101407,
+			"ParentId_3" : 101424
+		}, {
+			"Identifier" : 101734,
+			"Text" : "Bombillas para luces de matrícula",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101705,
+			"ParentId_3" : 101731
+		}, {
+			"Identifier" : 100489,
+			"Text" : "Cárter de aceite",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100245,
+			"ParentId_3" : 100475
+		}, {
+			"Identifier" : 100522,
+			"Text" : "Casquillo de cojinete de cigüeñal",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100515,
+			"ParentId_3" : 100517
+		}, {
+			"Identifier" : 100527,
+			"Text" : "Casquillo de pie de biela",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100515,
+			"ParentId_3" : 100519
+		}, {
+			"Identifier" : 100886,
+			"Text" : "Chapa dispersora de aceite",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100515,
+			"ParentId_3" : 100517
+		}, {
+			"Identifier" : 100326,
+			"Text" : "Cinta de goma",
+			"ParentId_1" : 100004,
+			"ParentId_2" : 100222,
+			"ParentId_3" : 100317
+		}, {
+			"Identifier" : 100525,
+			"Text" : "Cojinete de cabeza de la biela",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100515,
+			"ParentId_3" : 100519
+		}, {
+			"Identifier" : 100404,
+			"Text" : "Correa dentada",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100003,
+			"ParentId_3" : 100396
+		}, {
+			"Identifier" : 100759,
+			"Text" : "Discos del cigüeñal",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100515,
+			"ParentId_3" : 100517
+		}, {
+			"Identifier" : 100505,
+			"Text" : "Iluminación habitáculo",
+			"ParentId_1" : 100010,
+			"ParentId_2" : 100043,
+			"ParentId_3" : 100292
+		}, {
+			"Identifier" : 100508,
+			"Text" : "Iluminación instrumentos/elementos de servicio",
+			"ParentId_1" : 100010,
+			"ParentId_2" : 100043,
+			"ParentId_3" : 100292
+		}, {
+			"Identifier" : 100393,
+			"Text" : "Intercooler",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100383,
+			"ParentId_3" : 100390
+		}, {
+			"Identifier" : 100405,
+			"Text" : "Juego de correas dentadas",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100003,
+			"ParentId_3" : 100396
+		}, {
+			"Identifier" : 103270,
+			"Text" : "Juego de reparación",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100515,
+			"ParentId_3" : 100520
+		}, {
+			"Identifier" : 100531,
+			"Text" : "Juego de segmentos de pistón",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100515,
+			"ParentId_3" : 100520
+		}, {
+			"Identifier" : 100321,
+			"Text" : "Junta",
+			"ParentId_1" : 100004,
+			"ParentId_2" : 100222,
+			"ParentId_3" : 100317
+		}, {
+			"Identifier" : 100488,
+			"Text" : "Junta",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100245,
+			"ParentId_3" : 100474
+		}, {
+			"Identifier" : 100490,
+			"Text" : "Junta",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100245,
+			"ParentId_3" : 100475
+		}, {
+			"Identifier" : 100493,
+			"Text" : "Junta",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100245,
+			"ParentId_3" : 100476
+		}, {
+			"Identifier" : 101855,
+			"Text" : "Junta",
+			"ParentId_1" : 100238,
+			"ParentId_2" : 100240,
+			"ParentId_3" : 101853
+		}, {
+			"Identifier" : 101658,
+			"Text" : "Lámpara de faro",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101648,
+			"ParentId_3" : 101656
+		}, {
+			"Identifier" : 101495,
+			"Text" : "Lámpara faro trasero",
+			"ParentId_1" : 100010,
+			"ParentId_2" : 100043,
+			"ParentId_3" : 100275
+		}, {
+			"Identifier" : 100447,
+			"Text" : "Lámpara para faros de luz antiniebla",
+			"ParentId_1" : 100010,
+			"ParentId_2" : 100787,
+			"ParentId_3" : 100277
+		}, {
+			"Identifier" : 101343,
+			"Text" : "Lámpara para faros de luz antiniebla",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101340,
+			"ParentId_3" : 101341
+		}, {
+			"Identifier" : 101663,
+			"Text" : "Lámpara para faros de luz antiniebla",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101648,
+			"ParentId_3" : 101661
+		}, {
+			"Identifier" : 100442,
+			"Text" : "Lámparapara faros carretera",
+			"ParentId_1" : 100010,
+			"ParentId_2" : 100787,
+			"ParentId_3" : 100276
+		}, {
+			"Identifier" : 101347,
+			"Text" : "Lámparapara faros carretera",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101340,
+			"ParentId_3" : 101345
+		}, {
+			"Identifier" : 101667,
+			"Text" : "Lámparapara faros carretera",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101648,
+			"ParentId_3" : 101665
+		}, {
+			"Identifier" : 101414,
+			"Text" : "Lámparas para luces traseras",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101407,
+			"ParentId_3" : 101411
+		}, {
+			"Identifier" : 101721,
+			"Text" : "Lámparas para luces traseras",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101705,
+			"ParentId_3" : 101718
+		}, {
+			"Identifier" : 100469,
+			"Text" : "Luces de gálibo",
+			"ParentId_1" : 100010,
+			"ParentId_2" : 100043,
+			"ParentId_3" : 100290
+		}, {
+			"Identifier" : 101443,
+			"Text" : "Luces de gálibo",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101407,
+			"ParentId_3" : 101441
+		}, {
+			"Identifier" : 101768,
+			"Text" : "Luces de gálibo",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101648,
+			"ParentId_3" : 101766
+		}, {
+			"Identifier" : 101787,
+			"Text" : "Luces de gálibo",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101705,
+			"ParentId_3" : 101785
+		}, {
+			"Identifier" : 100468,
+			"Text" : "Luces de posición/estacionamiento",
+			"ParentId_1" : 100010,
+			"ParentId_2" : 100043,
+			"ParentId_3" : 100290
+		}, {
+			"Identifier" : 101442,
+			"Text" : "Luces de posición/estacionamiento",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101407,
+			"ParentId_3" : 101441
+		}, {
+			"Identifier" : 101767,
+			"Text" : "Luces de posición/estacionamiento",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101648,
+			"ParentId_3" : 101766
+		}, {
+			"Identifier" : 101786,
+			"Text" : "Luces de posición/estacionamiento",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101705,
+			"ParentId_3" : 101785
+		}, {
+			"Identifier" : 100463,
+			"Text" : "Luces intermitentes",
+			"ParentId_1" : 100010,
+			"ParentId_2" : 100043,
+			"ParentId_3" : 100145
+		}, {
+			"Identifier" : 101421,
+			"Text" : "Luces intermitentes",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101407,
+			"ParentId_3" : 101420
+		}, {
+			"Identifier" : 101670,
+			"Text" : "Luces intermitentes",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101648,
+			"ParentId_3" : 101669
+		}, {
+			"Identifier" : 101728,
+			"Text" : "Luces intermitentes",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101705,
+			"ParentId_3" : 101727
+		}, {
+			"Identifier" : 100567,
+			"Text" : "Lunas de ventanas",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 100744,
+			"ParentId_3" : 100745
+		}, {
+			"Identifier" : 100716,
+			"Text" : "Manguito de soldadura",
+			"ParentId_1" : 100004,
+			"ParentId_2" : 100222,
+			"ParentId_3" : 100317
+		}, {
+			"Identifier" : 101703,
+			"Text" : "Muelles neumáticos",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101690,
+			"ParentId_3" : 101700
+		}, {
+			"Identifier" : 101752,
+			"Text" : "Muelles neumáticos",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101705,
+			"ParentId_3" : 101745
+		}, {
+			"Identifier" : 101777,
+			"Text" : "Muelles neumáticos",
+			"ParentId_1" : 100001,
+			"ParentId_2" : 101648,
+			"ParentId_3" : 101673
+		}, {
+			"Identifier" : 100329,
+			"Text" : "Pieza de agarre",
+			"ParentId_1" : 100004,
+			"ParentId_2" : 100222,
+			"ParentId_3" : 100317
+		}, {
+			"Identifier" : 100529,
+			"Text" : "Pistón",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100515,
+			"ParentId_3" : 100520
+		}, {
+			"Identifier" : 100530,
+			"Text" : "Pistón, completo",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100515,
+			"ParentId_3" : 100520
+		}, {
+			"Identifier" : 100407,
+			"Text" : "Rodillo inversor/guía",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100003,
+			"ParentId_3" : 100396
+		}, {
+			"Identifier" : 100406,
+			"Text" : "Rodillo tensor",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100003,
+			"ParentId_3" : 100396
+		}, {
+			"Identifier" : 100327,
+			"Text" : "Soporte",
+			"ParentId_1" : 100004,
+			"ParentId_2" : 100222,
+			"ParentId_3" : 100317
+		}, {
+			"Identifier" : 100491,
+			"Text" : "Tapón roscado de vaciado",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100245,
+			"ParentId_3" : 100475
+		}, {
+			"Identifier" : 100333,
+			"Text" : "Tornillo",
+			"ParentId_1" : 100004,
+			"ParentId_2" : 100222,
+			"ParentId_3" : 100317
+		}, {
+			"Identifier" : 100528,
+			"Text" : "Tornillos/tuerca  para biela",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100515,
+			"ParentId_3" : 100519
+		}, {
+			"Identifier" : 100423,
+			"Text" : "Válvulas/accesorios",
+			"ParentId_1" : 100002,
+			"ParentId_2" : 100003,
+			"ParentId_3" : 100422
+		}
+	]
+}
