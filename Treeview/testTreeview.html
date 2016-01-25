@@ -6,6 +6,13 @@
     <script type="text/javascript" src="js/lib/jquery-1.12.0.min.js"></script>
     <script type="text/javascript" src="js/jstree.js"></script>
     <script type="text/javascript" src="js/familiesTree.js"></script>
+    <link rel="stylesheet" href="js/themes/default/style.min.css" media="screen" title="no title" charset="utf-8">
+  <style>.hidden{
+    display:none !important;
+  }
+  .active{
+    display:block;
+  }</style>
   </head>
 
   <body>
@@ -13,10 +20,15 @@
   <main>
 
     <div class="controls">
-      <input type="checkbox" name="firstlevel" id="firstlevel"><label>firstlevel</label>
-      <input type="checkbox" name="secondlevel" id="secondlevel"><label>secondlevel</label>
-      <input type="checkbox" name="thirdlevel" id="thirdlevel"><label>thirdlevel</label>
-      <input type="checkbox" name="fourthlevel" id="fourthlevel"><label>fourthlevel</label>
+      <input checked="checked" disabled type="checkbox" name="firstlevel" id="firstlevel"><label>firstlevel</label>
+      <input checked="checked" disabled type="checkbox" name="secondlevel" id="secondlevel"><label>secondlevel</label>
+      <input checked="checked" type="checkbox" name="thirdlevel" id="thirdlevel"><label>thirdlevel</label>
+      <input checked="checked" type="checkbox" name="fourthlevel" id="fourthlevel"><label>fourthlevel</label>
+    </div>
+    <div class="">
+      <button class="loadTree">Load tree</button>
+      <input type="text" name="" id="filter">
+      <button class="filter">Load tree</button>
     </div>
 
     <div id="tree">
