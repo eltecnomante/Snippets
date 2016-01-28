@@ -40,7 +40,7 @@
 
       $('#select_'+next+' option[value=-1]').removeClass('hidden');
       $('#select_'+next+' option').removeAttr('selected');
-
+}
 
 
 var level3id =0;
@@ -83,7 +83,7 @@ var level2id=0;
       if($('#select_'+level+' option').not('.hidden').length==1){
         $('#select_'+level+' option').eq(0).addClass('hidden');
       }
-    }
+
 
   };
 
