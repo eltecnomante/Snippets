@@ -185,14 +185,14 @@ $(document).on('ready',function(){
     $('#firstlevel').prop('checked','checked');
     $('#secondlevel').prop('checked','checked');
 
-  });
-
-  $('.loadTree').on('click',function(){
     $parent=    $('#tree').parent();
     $('#tree').remove();
     $('<div id="tree"></div>').appendTo($parent);
-    drawTree($('input[type=checkbox]:checked').length);
+    drawTree($('input[type=checkbox]:checked').length+2);
+
   });
+
+
 
   $('#filter').on('keyup',function(){
     $("#tree").jstree(true).search($("#filter").val());
@@ -211,7 +211,7 @@ $(document).on('ready',function(){
     });
 
     $('li[aria-level=2]').each(function(){
-      if(!$(this).find('.jstree-search').length>0){        
+      if(!$(this).find('.jstree-search').length>0){
         $(this).addClass('hidden');
       }
     });

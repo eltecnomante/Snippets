@@ -12,6 +12,9 @@
   min-height: 302px;
   border-radius: 2px;
 }
+.catalog .jstree-default .jstree-clicked{
+  background:#0E9660;
+}
 .catalog,
 .catalog option {
   font-family: Tahoma, Helvetica, Arial, sans-serif;

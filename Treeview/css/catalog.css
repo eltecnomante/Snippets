@@ -87,3 +87,10 @@
 .listBox option {
   padding: 2px;
 }
+.catalog .jstree-default .jstree-hovered{
+  background:rgba(14,150,96,0.2);
+}
+
+.catalog .jstree-default .jstree-clicked{
+  background:rgba(14,150,96,0.4);
+}
