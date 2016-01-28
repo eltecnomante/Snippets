@@ -1,0 +1,23 @@
+.listBox {
+  width: 200px;
+  display: inline-block;
+  min-height: 50px;
+  margin-right: 50px;
+}
+.hidden {
+  display: none;
+}
+.listBox {
+  overflow-x: auto;
+  min-height: 302px;
+  border-radius: 2px;
+}
+.catalog,
+.catalog option {
+  font-family: Tahoma, Helvetica, Arial, sans-serif;
+  font-size: 12px;
+  color:rgb(50,50,50);
+}
+.listBox option {
+  padding: 2px;
+}

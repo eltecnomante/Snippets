@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Testing treeview</title>
+    <script type="text/javascript" src="js/lib/jquery-1.12.0.min.js"></script>
+    <script type="text/javascript" src="js/jstree.js"></script>
+    <script type="text/javascript" src="js/familiesTree.js"></script>
+    <script type="text/javascript" src="js/list/listPreview.js"></script>
+    <link rel="stylesheet" href="js/themes/default/style.min.css" media="screen" title="no title" charset="utf-8">
+    <link rel="stylesheet" href="css/catalog.css">
+  <style>.hidden{
+    display:none !important;
+  }
+  .active{
+    display:block;
+  }</style>
+  </head>
+
+  <body>
+
+  <main class="catalog">
+    <section class="treeview">
+
+      <div class="controls">
+        <input checked="checked" disabled type="checkbox" name="firstlevel" id="firstlevel"><label>firstlevel</label>
+        <input checked="checked" disabled type="checkbox" name="secondlevel" id="secondlevel"><label>secondlevel</label>
+        <input checked="checked" type="checkbox" name="thirdlevel" id="thirdlevel"><label>thirdlevel</label>
+        <input checked="checked" type="checkbox" name="fourthlevel" id="fourthlevel"><label>fourthlevel</label>
+      </div>
+      <div class="">
+        <button class="loadTree">Load tree</button>
+        <input type="text" name="" id="filter">
+      </div>
+
+      <div id="tree">
+
+      </div>
+    </section>
+    <section class="list">      
+        <select class="listBox" size="15" name="" id="select_1">
+          <option title="Todos" selected value="-1">Todos</option>
+
+        </select>
+        <select class="listBox" size="15" name="" id="select_2">
+          <option title="Todos" selected value="-1">Todos</option>
+
+        </select>
+        <select class="listBox" size="15" name="" id="select_3">
+          <option title="Todos" selected  value="-1">Todos</option>
+
+        </select>
+        <select class="listBox" size="15" name="" id="select_4">
+          <option title="Todos" selected  value="-1">Todos</option>
+
+        </select>
+
+
+
+    </section>
+  </main>
+
+  </body>
+</html>
