@@ -90,7 +90,16 @@
 .catalog .jstree-default .jstree-hovered{
   background:rgba(14,150,96,0.2);
 }
-
 .catalog .jstree-default .jstree-clicked{
   background:rgba(14,150,96,0.4);
+}
+.list{
+  margin-top:3em;
+  padding:1em;
+  border:1px solid rgb(50,50,50);
+  border-radius:5px;
+}
+input[type="text"]{
+  margin:1em 0;
+  
 }
