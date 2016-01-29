@@ -160,8 +160,7 @@ input[type="text"]{
   background-color:rgba(50,50,50,0.3);
 }
 .showButton.selected{
-  background-color:rgba(50,50,50,0.1);
-  border-width:2px;
+  background-color:rgba(50,50,50,0.1);  
 }
 .showTree{
   background: url(../images/tree.png) no-repeat center center transparent;;
@@ -178,4 +177,23 @@ input[type="text"]{
   width:100%;
   height:142px;
   background: url(../images/bottom.png) no-repeat  center center transparent;
+}
+#tree{
+  padding-bottom:2em;
+}
+.controls{
+  display:inline-block;
+}
+.jstree-search {
+  color:#0E9660 !important;
+}
+.fakeButtons{
+  background: url(../images/buttons.png) no-repeat left top transparent;
+  width:129px;
+  height:35px;
+}
+.fakeButtons{
+  display:inline-block;
+  position:relative;
+  top:1em;
 }

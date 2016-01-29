@@ -164,14 +164,18 @@ var drawTree = function(level) {
 
     $('#tree').jstree({
       'core': {
-        'data': final
+        'data': final,
+        'open_node':'#1'
       },
-      'plugins': ['search']
+      'plugins': ['search'],
+
     });
+    $('#tree').jstree("open_node",1 );
   });
+
 };
 
-
+/*Metodo para mostrar elementos hijos en las listas en base a nivel que se ha clickado y el elemento seleccionado*/
 var getSelectedChildren = function(level, selectedid) {
 
   var i = 1,
@@ -248,7 +252,7 @@ $(document).on('ready', function() {
 
   drawTree(4);
 
-  $('input').change(function() {
+  $('input[type="checkbox"]').change(function() {
     if ($(this).is(":checked")) {
       $(this).prevAll().prop('checked', 'checked');
       $(this).nextAll().removeAttr('checked');
@@ -262,6 +266,9 @@ $(document).on('ready', function() {
     $('#tree').remove();
     $('<div id="tree"></div>').appendTo($parent);
     drawTree($('input[type=checkbox]:checked').length + 2);
+    setTimeout(function(){
+      $('.jstree-icon.jstree-ocl').click();
+    },500);
   });
 
   $('#filter').on('keyup', function() {
@@ -297,7 +304,7 @@ $(document).on('ready', function() {
       extendedTitle='';
       families["Families_" + i].map(function(val, ind) {
         if(i>=2){
-          extendedTitle = $('option[value='+ val["ParentId_" + (i - 1)] +']').text();          
+          extendedTitle = $('option[value='+ val["ParentId_" + (i - 1)] +']').text();
           options += '<option title="' +extendedTitle+'/'+ val.Text + '" value="' + val.Identifier + '" parentId="' + val["ParentId_" + (i - 1)] + '">' + val.Text + '</option>';
         }else{
           options += '<option title="' + val.Text + '" value="' + val.Identifier + '" parentId="' + val["ParentId_" + (i - 1)] + '">' + val.Text + '</option>';
@@ -319,12 +326,41 @@ $(document).on('ready', function() {
     $('.showButton').toggleClass('selected');
     if($('.showTree.selected').length){
       $('#tree').show();
+
       $('.list').hide();
+      $('.controls').show();
+      $('.fakeButtons').hide();
+      $('#tree').jstree('clear_search' );
+      $('#tree').jstree("close_node",1 );
+      $('#tree').jstree("open_node",1 );
     }else{
       $('#tree').hide();
       $('.list').show();
+      $('.controls').hide();
+      $('.fakeButtons').show();
     }
+    $('#filter').val('');
+
   });
-      $('.list').hide();
+  $('.js-search').on('click',function(e){
+    e.preventDefault();
+    $(this).addClass('jstree-clicked');
+  });
+
+
+  $('.list').hide();
+  $('.fakeButtons').hide();
+      /*  while($('#tree').jstree('is_loaded',1)){
+          setTimeout(function(){},50);
+        }*/
+        
+
+        $('#tree').bind('ready.jstree',function(e,data){
+          $('#tree').jstree('open_node',1 );
+        });
+
+  /*setTimeout(function(){
+    $('.jstree-icon.jstree-ocl').click();
+  },1200);*/
 
 });
