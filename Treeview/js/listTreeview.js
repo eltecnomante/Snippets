@@ -144,7 +144,6 @@ var drawTree = function(level) {
                     'text': origin.Families_4[i].Text
                   });
                   next = 0;
-                  //  console.log('inserting ' + j + ' ' + k + ' ' + l);
                 }
                 l++;
               }
@@ -242,10 +241,7 @@ var getSelectedChildren = function(level, selectedid) {
     $('#select_' + level + ' option').eq(0).addClass('hidden');
   }
 
-
 };
-
-
 
 
 $(document).on('ready', function() {
@@ -294,12 +290,18 @@ $(document).on('ready', function() {
     families = json;
 
     var options = '',
-      i = 1;
-
+      i = 1,
+    extendedTitle='';
     for (i; i <= 4; i++) {
       options = '';
+      extendedTitle='';
       families["Families_" + i].map(function(val, ind) {
-        options += '<option title="' + val.Text + '" value="' + val.Identifier + '" parentId="' + val["ParentId_" + (i - 1)] + '">' + val.Text + '</option>';
+        if(i>=2){
+          extendedTitle = $('option[value='+ val["ParentId_" + (i - 1)] +']').text();          
+          options += '<option title="' +extendedTitle+'/'+ val.Text + '" value="' + val.Identifier + '" parentId="' + val["ParentId_" + (i - 1)] + '">' + val.Text + '</option>';
+        }else{
+          options += '<option title="' + val.Text + '" value="' + val.Identifier + '" parentId="' + val["ParentId_" + (i - 1)] + '">' + val.Text + '</option>';
+        }
       });
 
       $('#select_' + i).append(options);
@@ -312,4 +314,17 @@ $(document).on('ready', function() {
     var selectedID = $(this).val();
     getSelectedChildren(i, selectedID);
   });
+
+  $('.showButton').on('click',function(){
+    $('.showButton').toggleClass('selected');
+    if($('.showTree.selected').length){
+      $('#tree').show();
+      $('.list').hide();
+    }else{
+      $('#tree').hide();
+      $('.list').show();
+    }
+  });
+      $('.list').hide();
+
 });

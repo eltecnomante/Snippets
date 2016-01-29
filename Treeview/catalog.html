@@ -17,24 +17,26 @@
   </head>
 
   <body>
-
+  <header class="catalogHeader"></header>
   <main class="catalog">
+    <div class="buttonBar">
+      <button class="showTree showButton selected" title="Mostrar Arbol"></button>
+      <button class="showList showButton" title="Mostrar Lista"></button>
+    </div>
     <section class="treeview">
-
       <div class="controls">
-        <input checked="checked" type="checkbox" name="thirdlevel" id="thirdlevel"><label>thirdlevel</label>
-        <input checked="checked" type="checkbox" name="fourthlevel" id="fourthlevel"><label>fourthlevel</label>
+        <input checked="checked" type="checkbox" name="thirdlevel" id="thirdlevel"><label>Mostrar tercer nivel</label>
+        <input checked="checked" type="checkbox" name="fourthlevel" id="fourthlevel"><label>Mostrar cuarto nivel</label>
       </div>
       <div class="">
         <input type="text" name="" id="filter">
       </div>
-
       <div id="tree">
-
       </div>
     </section>
 
     <section class="list">
+
         <select class="listBox" size="15" name="" id="select_1">
           <option title="Todos" selected value="-1">Todos</option>
 
@@ -56,6 +58,6 @@
 
     </section>
   </main>
-
+  <footer class="catalogFooter"></footer>
   </body>
 </html>
