@@ -170,10 +170,8 @@
   };
 
 $(document).on('ready',function(){
-  var start = new Date().getTime();
 
   drawTree(4);
-
 
   $('input').change(function(){
     if($(this).is(":checked")) {
@@ -189,10 +187,7 @@ $(document).on('ready',function(){
     $('#tree').remove();
     $('<div id="tree"></div>').appendTo($parent);
     drawTree($('input[type=checkbox]:checked').length+2);
-
   });
-
-
 
   $('#filter').on('keyup',function(){
     $("#tree").jstree(true).search($("#filter").val());
@@ -215,8 +210,5 @@ $(document).on('ready',function(){
         $(this).addClass('hidden');
       }
     });
-
-
   });
-  console.log(new Date().getTime() - start);
 });
