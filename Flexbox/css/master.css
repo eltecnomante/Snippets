@@ -25,3 +25,23 @@
   -webkit-box-flex:1;
   -webkit-flex:1;
 }
+#page {
+  counter-reset: heading;
+}
+
+h1:before {
+  content: counter(heading)") ";
+  counter-increment: heading;
+}
+
+h1 {
+  counter-reset: subheading;
+}
+
+h2:before {
+  content: counter(heading)"." counter(subheading)") ";
+  counter-increment: subheading;
+}
+body{
+  font-family: courier new;
+}
