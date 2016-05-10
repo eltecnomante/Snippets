@@ -1,0 +1,7 @@
+{
+  "name": "Marvelizador",
+  "version": "0.0.1",
+  "description": "Localizador de entregas",
+  "main": "marvelizer.js",
+  "author": "eltecnomante"
+}
