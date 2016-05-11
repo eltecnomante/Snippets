@@ -1,3 +1,5 @@
+'use strict';
+
 var gulp = require('gulp'),
     gutil = require('gulp-util'),
     jshint = require('gulp-jshint'),
@@ -79,3 +81,24 @@ gulp.task('dev', function() {
   // Run the watch task, to keep taps on changes
   gulp.run('watch');
 });
+
+
+var sass = require('gulp-sass');
+// Not necessary, but I like this one, it automatically adds prefixes for all browsers
+var autoprefixer = require('gulp-autoprefixer');
+
+// Styles task
+gulp.task('styles', function() {
+  gulp.src('app/styles/*.scss')
+  // The onerror handler prevents Gulp from crashing when you make a mistake in your SASS
+  .pipe(sass({onError: function(e) { console.log(e); } }))
+  // Optionally add autoprefixer
+  .pipe(autoprefixer("last 2 versions", "> 1%", "ie 8"))
+  // These last two should look familiar now :)
+  .pipe(gulp.dest('dist/css/'))
+  .pipe(refresh(lrserver));
+});
+
+gulp.watch(['app/styles/**/*.scss'], [
+  'styles'
+]);
