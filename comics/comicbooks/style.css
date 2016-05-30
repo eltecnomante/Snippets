@@ -1,0 +1,131 @@
+/* line 4, sass/style.scss */
+* {
+  box-sizing: border-box;
+}
+
+/* line 7, sass/style.scss */
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Open Sans';
+}
+
+/* line 13, sass/style.scss */
+a:link,
+a:visited,
+a:hover {
+  color: rgba(0, 0, 0, 0.9);
+}
+
+/* line 18, sass/style.scss */
+.main-container {
+  overflow: hidden;
+}
+
+/* line 21, sass/style.scss */
+.character-container {
+  -webkit-transform: translateZ(0);
+}
+
+/* line 24, sass/style.scss */
+.character {
+  width: 20%;
+  height: auto;
+  padding-bottom: 20%;
+  float: left;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  opacity: 0.5;
+  -moz-transition: opacity 0.5s ease;
+  -o-transition: opacity 0.5s ease;
+  -webkit-transition: opacity 0.5s ease;
+  transition: opacity 0.5s ease;
+}
+/* line 32, sass/style.scss */
+.character h3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 80%;
+  background-color: #ffffff;
+  padding: 1%;
+  margin: 0px;
+}
+/* line 43, sass/style.scss */
+.character:hover {
+  cursor: pointer;
+  opacity: 1;
+}
+
+/* line 49, sass/style.scss */
+.popup {
+  position: fixed;
+  top: 100px;
+  left: 50%;
+  z-index: 1000;
+  width: 500px;
+  height: 500px;
+  margin-left: -250px;
+  background-color: #ffffff;
+  background-size: cover;
+  background-repeat: no-repeat;
+  -moz-transition: all 0.5s ease;
+  -o-transition: all 0.5s ease;
+  -webkit-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+  -moz-transform: scale(2);
+  -ms-transform: scale(2);
+  -webkit-transform: scale(2);
+  transform: scale(2);
+  visibility: hidden;
+  opacity: 0;
+}
+/* line 64, sass/style.scss */
+.popup h1 {
+  margin-top: 0px;
+}
+/* line 67, sass/style.scss */
+.popup.show {
+  -moz-transform: scale(1);
+  -ms-transform: scale(1);
+  -webkit-transform: scale(1);
+  transform: scale(1);
+  visibility: visible;
+  opacity: 1;
+}
+/* line 72, sass/style.scss */
+.popup .bottom {
+  padding: 15px;
+  width: 100%;
+  bottom: 0px;
+  position: absolute;
+  background-color: rgba(255, 255, 255, 0.8);
+}
+/* line 79, sass/style.scss */
+.popup .close {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  color: #ffffff;
+  font-size: 20px;
+  padding-left: 10px;
+  right: -30px;
+  top: 0px;
+  background-color: #000000;
+}
+/* line 89, sass/style.scss */
+.popup .close:hover {
+  cursor: pointer;
+}
+
+/* line 94, sass/style.scss */
+.credit {
+  position: fixed;
+  bottom: 0px;
+  right: 0px;
+  z-index: 1000;
+  padding: 5px;
+  background-color: rgba(255, 255, 255, 0.5);
+}
