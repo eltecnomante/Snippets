@@ -1,7 +1,24 @@
 {
   "name": "Marvelizador",
   "version": "0.0.1",
-  "description": "Localizador de entregas",
+  "description": "Buscador de información",
   "main": "marvelizer.js",
-  "author": "eltecnomante"
+  "author": "eltecnomante",
+  "devDependencies": {
+    "browserify": "^13.0.1",
+    "connect-livereload": "^0.5.4",
+    "express": "^4.13.4",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-browserify": "^0.5.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-concat": "^2.6.0",
+    "gulp-embedlr": "^0.5.2",
+    "gulp-jshint": "^2.0.1",
+    "gulp-livereload": "^3.8.1",
+    "gulp-sass": "^2.3.1",
+    "gulp-util": "^3.0.7",
+    "jshint": "^2.9.2",
+    "tiny-lr": "^0.2.1"
+  }
 }

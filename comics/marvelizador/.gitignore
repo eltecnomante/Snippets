@@ -2,3 +2,4 @@ node_modules
 *.sassc
 .sass-cache
 npm-debug.log
+bower_components
