@@ -1,0 +1,67 @@
+<!doctype html>
+<!-- Copyright (c) 2015 Google Inc. All rights reserved. -->
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0, user-scalable=yes">
+  <title>Google Map demo</title>
+  <script src="bower_components/webcomponentsjs/webcomponents-lite.min.js"></script>
+  <link rel="import" href="bower_components/google-map/google-map.html">
+  <link rel="import" href="bower_components/google-map/google-map-marker.html">
+  <link rel="import" href="bower_components/google-map/google-map-poly.html">
+  <link rel="import" href="bower_components/google-map/google-map-directions.html">
+  <style>
+    body {
+      margin: 0;
+      height: 100vh;
+    }
+    #controlsToggle {
+      position: absolute;
+      left: 10%;
+      bottom: 10%;
+    }
+  </style>
+</head>
+<body class="fullbleed">
+
+<google-map latitude="43.3666" longitude="-5.870222" fit-to-markers
+            language="es">
+  <google-map-marker latitude="43.360783" longitude="-5.870222"
+                     title="¡Hala Oviedo!" draggable="true" drag-events>
+    <img src="https://upload.wikimedia.org/wikipedia/en/6/6e/Real_Oviedo_logo.svg" />
+  </google-map-marker>
+  <google-map-poly closed fill-color="blue" fill-opacity=".5" stroke-weight="1">
+    <google-map-point latitude="43.3666" longitude="-5.8333"></google-map-point>
+    <google-map-point latitude="43.5411" longitude="-5.6644"></google-map-point>
+    <google-map-point latitude="43.5569" longitude="-5.9247"></google-map-point>
+  </google-map-poly>
+</google-map>
+
+<google-map-directions start-address="Oviedo" end-address="Colloto"
+            language="es"></google-map-directions>
+
+<button id="controlsToggle" onclick="toggleControls()">Toggle controls</button>
+
+<script>
+  var gmap = document.querySelector('google-map');
+  gmap.addEventListener('api-load', function(e) {
+    document.querySelector('google-map-directions').map = this.map;
+  });
+
+  function toggleControls() {
+    gmap.disableDefaultUi = !gmap.disableDefaultUi;
+  }
+
+  var marker = document.querySelector('google-map-marker');
+  var poly = document.querySelector('google-map-poly');
+  var point = document.querySelector('google-map-point');
+
+  marker.addEventListener('google-map-marker-dragend', function(e) {
+    var latLng = e.detail.latLng;
+    console.log('pin dropped', latLng.lat(), latLng.lng());
+    point.latitude = latLng.lat();
+    point.longitude = latLng.lng();
+    poly._buildPathFromPoints();
+  });
+</script>
+</body>
+</html>
