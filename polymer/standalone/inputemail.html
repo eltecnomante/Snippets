@@ -9,6 +9,7 @@ Code distributed by Google as part of the polymer project is also
 subject to an additional IP rights grant found at http://polymer.github.io/PATENTS.txt
 -->
 <html>
+
 <head>
 
   <meta charset="utf-8">
@@ -17,27 +18,28 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
 
   <title>gold-email-input demo</title>
   <link rel="stylesheet" href="main.css" media="screen" title="no title" charset="utf-8" type="text/css">
+  <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.css" media="screen" title="no title" charset="utf-8" type="text/css">
   <script src="bower_components/webcomponentsjs/webcomponents-lite.js"></script>
   <link rel="import" href="bower_components/gold-email-input/gold-email-input.html">
   <link rel="import" href="bower_components/paper-styles/demo-pages.html">
   <link rel="import" href="bower_components/gold-phone-input/gold-phone-input.html">
   <link rel="import" href="bower_components/paper-styles/demo-pages.html">
 </head>
+
 <body unresolved>
-  <div class="vertical-section-container centered">
+  <div class="vertical-section-container centered container">
     <h4>Standard</h4>
     <div class="vertical-section">
       <gold-email-input></gold-email-input>
       <gold-email-input label="Auto-validating" required auto-validate></gold-email-input>
     </div>
-
-    <h4>Pre-validated</h4>
-    <div class="vertical-section">
-      <gold-email-input auto-validate value="batman@gotham.org"></gold-email-input>
-      <gold-email-input auto-validate value="not-a-thing.email"></gold-email-input>
-      <gold-email-input auto-validate label="custom regex, needs to ends in .cat"
-          regex='^[a-zA-Z0-9.!#$%&’*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+.cat$'
-          value="felix@meow.car"></gold-email-input>
+    <div class="row">
+      <h4 class="col-xs-12">Pre-validated</h4>
+      <div class="vertical-section col-xs-12">
+        <gold-email-input id="test1" classRow="row" classXS="col-xs-12" auto-validate value="batman@gotham.org"></gold-email-input>
+        <gold-email-input id="test11" classRow="row" classXS="col-xs-12" auto-validate value="not-a-thing.email"></gold-email-input>
+        <gold-email-input id="test51" classRow="row" classXS="col-xs-12" auto-validate label="custom regex, needs to ends in .cat" regex='^[a-zA-Z0-9.!#$%&’*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+.cat$' value="felix@meow.car"></gold-email-input>
+      </div>
     </div>
 
     <h4>Custom error message, auto-validates on blur</h4>
@@ -48,11 +50,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
     <div class="vertical-section">
       <gold-phone-input country-code="34" phone-number-pattern="6XX-XX-XX-XX"></gold-phone-input>
       <gold-phone-input country-code="34" auto-validate required label="Auto-validating"></gold-phone-input>
-      <gold-phone-input
-          label="Spain phone number"
-          country-code="34"
-          phone-number-pattern="6XX-XX-XX-XX"
-          auto-validate>
+      <gold-phone-input label="Spain phone number" country-code="34" phone-number-pattern="6XX-XX-XX-XX" auto-validate>
       </gold-phone-input>
     </div>
 
