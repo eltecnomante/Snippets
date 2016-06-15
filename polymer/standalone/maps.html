@@ -4,11 +4,14 @@
 <head>
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0, user-scalable=yes">
   <title>Google Map demo</title>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
   <script src="bower_components/webcomponentsjs/webcomponents-lite.min.js"></script>
   <link rel="import" href="bower_components/google-map/google-map.html">
   <link rel="import" href="bower_components/google-map/google-map-marker.html">
   <link rel="import" href="bower_components/google-map/google-map-poly.html">
   <link rel="import" href="bower_components/google-map/google-map-directions.html">
+  <link rel="import" href="bower_components/x-tweet/x-tweet.html">
+  <script src="maps.js" type="text/javascript" charset="utf-8"></script>
   <style>
     body {
       margin: 0;
@@ -27,17 +30,30 @@
             language="es">
   <google-map-marker latitude="43.360783" longitude="-5.870222"
                      title="¡Hala Oviedo!" draggable="true" drag-events>
-    <img src="https://upload.wikimedia.org/wikipedia/en/6/6e/Real_Oviedo_logo.svg" />
+    <x-tweet tweetid="740542935335309312" tweetAccount="sngular"></x-tweet>
   </google-map-marker>
-  <google-map-poly closed fill-color="blue" fill-opacity=".5" stroke-weight="1">
-    <google-map-point latitude="43.3666" longitude="-5.8333"></google-map-point>
-    <google-map-point latitude="43.5411" longitude="-5.6644"></google-map-point>
-    <google-map-point latitude="43.5569" longitude="-5.9247"></google-map-point>
-  </google-map-poly>
-</google-map>
+  <google-map-marker latitude="40.486219" longitude="-3.684481"
+                     title="Sngular Team" draggable="true" drag-events>
+    <x-tweet tweetAccount="sngular" tweetid="742977968818016256"></x-tweet>
+  </google-map-marker>
+  <google-map-marker latitude="40.383852" longitude="-3.631318"
+                     title="Sngular Billionlabs" draggable="true" drag-events>
+    <x-tweet tweetAccount="sngular" tweetid="742977968818016256"></x-tweet>
+  </google-map-marker>
+  <google-map-marker latitude="37.387261" longitude="-6.000476"
+                     title="Sngular Walnutters" draggable="true" drag-events>
+    <x-tweet tweetAccount="sngular" tweetid="742977968818016256"></x-tweet>
+  </google-map-marker>
+  <google-map-marker latitude="40.437261" longitude="-3.686804"
+                     title="Sngular Daedalus" draggable="true" drag-events>
+    <x-tweet tweetAccount="sngular" tweetid="742977968818016256"></x-tweet>
+  </google-map-marker>
+  <google-map-marker latitude="38.886300" longitude="-7.004623"
+                     title="Sngular Trecone" draggable="true" drag-events>
+    <x-tweet tweetAccount="sngular" tweetid="742977968818016256"></x-tweet>
+  </google-map-marker>
 
-<google-map-directions start-address="Oviedo" end-address="Colloto"
-            language="es"></google-map-directions>
+</google-map>
 
 <button id="controlsToggle" onclick="toggleControls()">Toggle controls</button>
 
